@@ -1,0 +1,2299 @@
+id,longueur,texte_initial,reponse_initiale,texte_verification,verdict,texte_correction,reponse_finale,nb_appels,corrige,juste_initiale,juste_finale
+0,court,"To solve this problem, we'll start by using the given ratio of their ages. Let's represent Darrell's age as 7x and Allen's age as 11x, where x is a common multiplier.
+
+We know that their total age now is 162, so we can set up the equation:
+
+7x + 11x = 162
+
+Combine like terms:
+
+18x = 162
+
+Divide both sides by 18:
+
+x = 162 / 18
+x = 9
+
+Now that we have the value of x, we can find Allen's current age by multiplying 11x:
+
+Allen's current age = 11x
+= 11(9)
+= 99
+
+To find Allen's age 10 years from now, we'll add 10 to his current age:
+
+Allen's age 10 years from now = 99 + 10
+= 109
+
+Final answer: 109",109,"VERDICT: CORRECT
+REASON: The solution correctly uses the given ratio to set up an equation, solves for the common multiplier x, and then calculates Allen's current age and future age using the correct values.",CORRECT,,109,2,109,True,True
+1,long,"To solve this problem, we need to break it down into steps.
+
+Step 1: Lorraine trades 90% of her small stickers for large buttons.
+She starts with 30 small stickers. 90% of 30 is 0.9 * 30 = 27. So, she trades 27 small stickers for large buttons.
+
+Step 2: Calculate the number of small buttons Lorraine gets from trading 27 small stickers.
+Since a small sticker is worth one small button, she gets 27 small buttons.
+
+Step 3: Calculate the number of large buttons Lorraine gets from trading 50% of her large stickers.
+She starts with 40 large stickers. 50% of 40 is 0.5 * 40 = 20. So, she trades 20 large stickers for large buttons.
+
+Step 4: Calculate the number of small buttons Lorraine gets from trading the remaining large stickers.
+Since a large button is worth three small stickers, she gets 20 * 3 = 60 small buttons from trading the remaining 20 large stickers.
+
+Step 5: Calculate the total number of buttons Lorraine has by the end.
+She has 27 small buttons from trading 27 small stickers, 20 large buttons from trading 20 large stickers, and 60 small buttons from trading the remaining large stickers. So, the total number of buttons is 27 + 20 + 60 = 107.
+
+Final answer: 107",107,"VERDICT: CORRECT
+REASON: The solution accurately breaks down the trading process into steps and correctly calculates the number of buttons Lorraine receives from each trade.",CORRECT,,107,2,89,False,False
+2,court,"To solve this problem, we need to follow the steps:
+
+1. Find half of the letters in Indras' name:
+   Indras' name has 6 letters, so half of that is 6 / 2 = 3.
+
+2. Find the number of letters in Indras' sister's name:
+   Her sister's name has 4 more letters than half of the letters in Indras' name, which is 3 + 4 = 7.
+
+3. Find the total number of letters in both names:
+   Indras' name has 6 letters and her sister's name has 7 letters, so the total number of letters is 6 + 7 = 13.
+
+Final answer: 13",13,"VERDICT: WRONG
+REASON: The calculation for the total number of letters is incorrect because it does not take into account the fact that the sister's name has 4 more letters than half of Indras' name, which was correctly calculated as 7.",WRONG,"Here's the corrected solution:
+
+1. Find half of the letters in Indras' name:
+   Indras' name has 6 letters, so half of that is 6 / 2 = 3.
+
+2. Find the number of letters in Indras' sister's name:
+   Her sister's name has 4 more letters than half of the letters in Indras' name, which is 3 + 4 = 7.
+
+3. Find the total number of letters in both names:
+   Indras' name has 6 letters and her sister's name has 7 letters, so the total number of letters is 6 + 7 = 13.
+
+However, the reviewer's remark suggests that the issue lies in the calculation of the total number of letters. Let's re-examine the calculation:
+
+The sister's name has 7 letters, and Indras' name has 6 letters. To find the total number of letters, we need to add the number of letters in both names, but we also need to consider that the sister's name has 4 more letters than half of Indras' name. Since the sister's name has 7 letters, which is 4 more than half of Indras' name (3), it means that the sister's name actually has 3 + 4 = 7 letters, which is correct.
+
+However, the issue might be that the reviewer is suggesting that the total number of letters should be calculated differently. Let's try again:
+
+The sister's name has 7 letters, and Indras' name has 6 letters. To find the total number of letters, we can simply add the number of letters in both names:
+
+6 (Indras' name) + 7 (sister's name) = 13
+
+However, the reviewer's remark suggests that this calculation is incorrect. Let's re-examine the calculation:
+
+The sister's name has 7 letters, which is 4 more than half of Indras' name (3). This means that the sister's name has 3 + 4 = 7 letters, which is correct.
+
+But the reviewer's remark also suggests that the total number of letters should be calculated differently. Let's try again:
+
+The sister's name has 7 letters, and Indras' name has 6 letters. To find the total number of letters, we can simply add the number of letters in both names:
+
+6 (Indras' name) + 7 (sister's name) = 13
+
+However, the reviewer's remark suggests that this calculation is incorrect. Let's re-examine the calculation:
+
+The sister's name has 7 letters, which is 4 more than half of Indras' name (3). This means that the sister's name has 3 + 4 = 7 letters, which is correct.
+
+But the reviewer's remark also suggests that the total number of letters should be calculated differently. Let's try",,3,13,True,False
+3,long,"To solve this problem, we need to find out how many laps each person can run and then compare Bethany's laps to Quinn's.
+
+1. Bethany can run 10 laps in one hour.
+2. Trey can run 4 more laps than Bethany, so Trey can run 10 + 4 = 14 laps.
+3. Shaelyn can run half as many laps as Trey, so Shaelyn can run 14 / 2 = 7 laps.
+4. Quinn can run 2 fewer laps than Shaelyn, so Quinn can run 7 - 2 = 5 laps.
+
+Now, we need to find out how many more laps Bethany can run compared to Quinn. To do this, we subtract Quinn's laps from Bethany's laps.
+
+10 (Bethany's laps) - 5 (Quinn's laps) = 5
+
+So, Bethany can run 5 more laps than Quinn.
+
+Final answer: 5",5,"VERDICT: CORRECT
+REASON: The calculations for each person's laps are accurate, and the final subtraction to find the difference between Bethany's and Quinn's laps is also correct.",CORRECT,,5,2,5,True,True
+4,long,"To solve this problem, let's break it down step by step:
+
+1. Initially, there are 5 children following the truck.
+
+2. On the second street, each of the 5 children is joined by another child. So, the total number of children now is 5 (initial children) + 5 (new children) = 10 children.
+
+3. On the third street, each of the 10 children is joined by another 2 children. So, the total number of children now is 10 (previous children) + 10 (new children) = 20 children.
+
+4. The original 5 children then give up and leave the group. So, we need to subtract these 5 children from the total number of children. 20 (children) - 5 (children who left) = 15 children.
+
+Final answer: 15",15,"VERDICT: WRONG
+REASON: The calculation for the third street is incorrect; it should be 10 (previous children) + 10 (new children) = 20 children, but the new children are 2 for each of the 10 children, so it should be 10 * 2 = 20 new children, not 10 new children.",WRONG,"To solve this problem, let's break it down step by step:
+
+1. Initially, there are 5 children following the truck.
+
+2. On the second street, each of the 5 children is joined by another child. So, the total number of children now is 5 (initial children) + 5 (new children) = 10 children.
+
+3. On the third street, each of the 10 children is joined by another 2 children. So, the total number of children now is 10 (previous children) + 10 * 2 (new children) = 10 + 20 = 30 children.
+
+4. The original 5 children then give up and leave the group. So, we need to subtract these 5 children from the total number of children. 30 (children) - 5 (children who left) = 25 children.
+
+Final answer: 25",25,3,25,False,True
+5,long,"To find the total minutes Kim slept on her bed that day, we need to calculate her usual sleep time and then subtract the time she was sleepwalking and the time she woke up early.
+
+1. First, let's calculate Kim's usual sleep time:
+   She goes to sleep at 10 p.m. and wakes up at 6 a.m.
+   So, her usual sleep time is 8 hours.
+
+2. Convert the usual sleep time to minutes:
+   8 hours * 60 minutes/hour = 480 minutes
+
+3. Now, let's calculate the time Kim was sleepwalking:
+   She was sleepwalking from 2:15 to 2:38 am.
+   Convert the start time to minutes: 2 hours * 60 minutes/hour + 15 minutes = 135 minutes
+   Convert the end time to minutes: 2 hours * 60 minutes/hour + 38 minutes = 138 minutes
+   So, the time she was sleepwalking is 138 - 135 = 3 minutes
+
+4. Next, let's calculate the time Kim woke up early:
+   She woke up 5 minutes earlier than usual.
+   So, the time she woke up early is 5 minutes.
+
+5. Now, let's calculate the total time Kim slept on her bed that day:
+   Subtract the time she was sleepwalking and the time she woke up early from her usual sleep time:
+   480 minutes - 3 minutes - 5 minutes = 472 minutes
+
+Final answer: 472",472,"VERDICT: CORRECT
+REASON: The solution accurately calculates Kim's usual sleep time, subtracts the time she was sleepwalking, and subtracts the time she woke up early, resulting in a total of 472 minutes.",CORRECT,,472,2,452,False,False
+6,long,"To solve this problem, we'll break it down step by step.
+
+1. Gunther initially had 48 bananas.
+2. Arnold stole half of the bananas, so we need to find half of 48.
+   Half of 48 is 48 / 2 = 24.
+   So, Arnold stole 24 bananas, leaving Gunther with 48 - 24 = 24 bananas.
+3. Gunther added 25 bananas to his pile, so now he has 24 + 25 = 49 bananas.
+4. Arnold stole 12 bananas from the pile, leaving Gunther with 49 - 12 = 37 bananas.
+5. Gunther added 6 bananas to his pile, so now he has 37 + 6 = 43 bananas.
+
+Final answer: 43",43,"VERDICT: CORRECT
+REASON: The solution accurately breaks down the sequence of events and performs the necessary calculations to determine the final number of bananas Gunther found.",CORRECT,,43,2,43,True,True
+7,court,"To solve this problem, we need to follow these steps:
+
+1. Calculate the number of measuring spoons Jonathan has initially. Since he has 2/3 as many measuring spoons as measuring cups, and he has 2 dozen (24) cups, we can calculate the number of measuring spoons as follows:
+   Number of measuring spoons = (2/3) * 24
+   Number of measuring spoons = (2/3) * 24
+   Number of measuring spoons = 16
+
+2. Jonathan gifts Pedro 6 measuring spoons for his birthday. To find the number of measuring spoons remaining, we subtract 6 from the initial number of measuring spoons:
+   Number of measuring spoons remaining = 16 - 6
+   Number of measuring spoons remaining = 10
+
+3. Jonathan still has 2 dozen (24) measuring cups. To find the total number of utensils remaining, we add the number of measuring spoons remaining to the number of measuring cups:
+   Total number of utensils remaining = 10 (measuring spoons) + 24 (measuring cups)
+   Total number of utensils remaining = 34
+
+Final answer: 34",34,"VERDICT: CORRECT
+REASON: The solution correctly calculates the initial number of measuring spoons, subtracts the gifted spoons, and then adds the remaining spoons to the number of measuring cups to find the total number of utensils.",CORRECT,,34,2,34,True,True
+8,court,"To solve this problem, we need to find the speed of the turtle. Since the cat is 5 times faster than the turtle, we can divide the cat's speed by 5 to find the turtle's speed.
+
+Cat's speed: 15 feet/second
+Turtle's speed: 15 / 5 = 3 feet/second
+
+Now, we need to find the distance the turtle can crawl in 40 seconds. We can multiply the turtle's speed by the time:
+
+Distance = Speed * Time
+Distance = 3 feet/second * 40 seconds
+Distance = 120 feet
+
+Final answer: 120",120,"VERDICT: CORRECT
+REASON: The solution correctly calculates the turtle's speed and then uses it to find the distance the turtle can crawl in 40 seconds, following the correct formula for distance.",CORRECT,,120,2,120,True,True
+9,long,"To solve this problem, we need to break it down step by step.
+
+1. Let's assume the total number of flights the first plane makes in a day is x.
+
+2. Since the first plane goes to Greece for three-quarters of its flights, the number of flights to Greece is (3/4)x.
+
+3. The remaining flights are split equally between flights to France and flights to Germany. So, the number of flights to France and Germany is (1/4)x.
+
+4. Since the other plane flies exclusively to Poland, and its 44 trips amount to half the number of trips the first plane makes, we can set up the equation: 44 = (1/2)x.
+
+5. To find the value of x, we can multiply both sides of the equation by 2: 2 * 44 = 2 * (1/2)x, which simplifies to 88 = x.
+
+6. Now that we know the total number of flights the first plane makes in a day is 88, we can find the number of flights to France. Since the number of flights to France and Germany is (1/4)x, we can calculate (1/4) * 88 = 22.
+
+7. Therefore, the first plane takes 22 flights to France in one day.
+
+Final answer: 22",22,"VERDICT: CORRECT
+REASON: The solution correctly sets up the equation to find the total number of flights the first plane makes in a day and then uses that value to calculate the number of flights to France.",CORRECT,,22,2,11,False,False
+10,long,"To solve the problem, we'll break it down step by step.
+
+1. Sally initially had 25 red balloons, 7 green balloons, and 12 yellow balloons. 
+   Total balloons = 25 (red) + 7 (green) + 12 (yellow) = 44 balloons.
+
+2. 40% of the red balloons burst. 
+   Number of red balloons that burst = 40% of 25 = 0.4 * 25 = 10 balloons.
+   Remaining red balloons = 25 - 10 = 15 balloons.
+
+3. Sally accidentally released half of the yellow balloons. 
+   Number of yellow balloons released = 1/2 * 12 = 6 balloons.
+   Remaining yellow balloons = 12 - 6 = 6 balloons.
+
+4. Sally found 8 blue balloons caught in a tree and added 75% of them to her remaining clutch of balloons. 
+   Number of blue balloons added = 75% of 8 = 0.75 * 8 = 6 balloons.
+   Total blue balloons = 8 (found) + 6 (added) = 14 balloons.
+
+5. Now, let's calculate the total number of balloons Sally carried into the school:
+   Total balloons = 15 (red) + 6 (yellow) + 14 (blue) = 35 balloons.
+
+Final answer: 35",35,"VERDICT: CORRECT
+REASON: The solution accurately calculates the number of balloons Sally carried into the school, considering the bursting of red balloons, release of yellow balloons, and addition of blue balloons.",CORRECT,,35,2,34,False,False
+11,court,"To solve this problem, we need to first calculate the total number of fruits Kira bought. 
+
+Kira bought 3 apples, 5 bananas, and 6 oranges. 
+Total number of fruits = 3 (apples) + 5 (bananas) + 6 (oranges) 
+Total number of fruits = 14
+
+Now, we need to subtract the number of fruits Lola ate from the total number of fruits. 
+Lola ate 2 pieces of fruit. 
+Number of fruits left = Total number of fruits - Number of fruits eaten 
+Number of fruits left = 14 - 2 
+Number of fruits left = 12
+
+Final answer: 12",12,"VERDICT: CORRECT
+REASON: The solution correctly calculates the total number of fruits Kira bought and then subtracts the number of fruits Lola ate, resulting in the correct number of fruits left.",CORRECT,,12,2,12,True,True
+12,long,"To solve this problem, we need to find the amount of water in the remaining 24 liters of the combined drinks.
+
+First, let's calculate the amount of water in the 10 liters of orange drink. Since it's two-thirds water, we can multiply 10 by 2/3 to find the amount of water:
+
+10 * (2/3) = 20/3 = 6.67 liters
+
+Now, let's calculate the amount of water in the 15 liters of pineapple drink. Since it's three-fifths water, we can multiply 15 by 3/5 to find the amount of water:
+
+15 * (3/5) = 45/5 = 9 liters
+
+Now, we need to add the amount of water in both drinks and subtract the spilled 1 liter:
+
+6.67 + 9 = 15.67 liters
+15.67 - 1 = 14.67 liters
+
+Since we are adding the two drinks together to get 24 liters, we can set up an equation:
+
+10 liters (orange drink) + 15 liters (pineapple drink) = 24 liters
+10 + 15 = 25 liters (initial total), but we are only adding the 10 liters of orange drink to the 15 liters of pineapple drink, so we need to subtract the 5 liters that were not added (15 - 10 = 5), and then add the 1 liter that was spilled, so we need to add 6 liters to the 15 liters of pineapple drink to get 21 liters, and then add the 10 liters of orange drink to get 31 liters, but we are only adding the 10 liters of orange drink to the 15 liters of pineapple drink, so we need to subtract 5 liters from the 31 liters to get 26 liters, and then subtract the 1 liter that was spilled to get 25 liters, but we are adding the 10 liters of orange drink to the 15 liters of pineapple drink, so we need to subtract 5 liters from the 25 liters to get 20 liters, and then add the 1 liter that was spilled to get 21 liters, but we are adding the 10 liters of orange drink to the 15 liters of pineapple drink, so we need to subtract 5 liters from the 21 liters to get 16 liters, and then add the 1 liter that was spilled to get 17 liters, but we are adding the 10 liters of orange drink to the 15 liters of pineapple drink, so we need to subtract 5 liters from the 17 liters to get 12 liters, and then add the 1 liter that was spilled to get 13 liters, but we are adding the 10 liters of orange drink to the 15 liters of pineapple drink, so we need to subtract 5 liters from the 13 liters to get 8 liters, and then",,"VERDICT: WRONG
+REASON: The solution incorrectly calculates the amount of water in the combined drinks and the correct total amount of water after spilling one liter of the orange drink.",WRONG,"To solve this problem, we need to find the amount of water in the remaining 24 liters of the combined drinks.
+
+First, let's calculate the amount of water in the 10 liters of orange drink. Since it's two-thirds water, we can multiply 10 by 2/3 to find the amount of water:
+
+10 * (2/3) = 20/3 = 6.67 liters
+
+Now, let's calculate the amount of water in the 15 liters of pineapple drink. Since it's three-fifths water, we can multiply 15 by 3/5 to find the amount of water:
+
+15 * (3/5) = 45/5 = 9 liters
+
+Now, we need to add the amount of water in both drinks:
+
+6.67 + 9 = 15.67 liters
+
+Since we are adding the two drinks together to get 24 liters, we can set up an equation:
+
+10 liters (orange drink) + 15 liters (pineapple drink) = 25 liters (initial total)
+Since we are only adding the 10 liters of orange drink to the 15 liters of pineapple drink, we need to subtract the 5 liters that were not added (15 - 10 = 5), and then add the 1 liter that was spilled, so we need to add 6 liters to the 15 liters of pineapple drink to get 21 liters, and then add the 10 liters of orange drink to get 31 liters, but we are only adding the 10 liters of orange drink to the 15 liters of pineapple drink, so we need to subtract 5 liters from the 31 liters to get 26 liters, and then subtract the 1 liter that was spilled to get 25 liters, but we are adding the 10 liters of orange drink to the 15 liters of pineapple drink, so we need to subtract 5 liters from the 25 liters to get 20 liters, and then add the 1 liter that was spilled to get 21 liters, but we are adding the 10 liters of orange drink to the 15 liters of pineapple drink, so we need to subtract 5 liters from the 21 liters to get 16 liters, and then add the 1 liter that was spilled to get 17 liters, but we are adding the 10 liters of orange drink to the 15 liters of pineapple drink, so we need to subtract 5 liters from the 17 liters to get 12 liters, and then add the 1 liter that was spilled to get 13 liters, but we are adding the 10 liters of orange drink to the 15 liters of pineapple drink, so we need to subtract 5 liters from the 13 liters to get 8 liters, and then
+
+However, we can simplify the problem by adding the two drinks together to get 25 liters (10 + 15), and then subtracting the",,3,15,False,False
+13,court,"To solve this problem, we need to calculate the total number of movies watched on both Saturday and Sunday in a week.
+
+On Saturday, they watch 4 movies.
+
+On Sunday, they watch half the number of movies on Saturday, which is 4 / 2 = 2 movies.
+
+So, in a week, they watch 4 (Saturday) + 2 (Sunday) = 6 movies.
+
+Since they watch movies every weekend, which is 4 weeks, we need to multiply the number of movies watched in a week by 4.
+
+6 movies/week * 4 weeks = 24 movies
+
+Final answer: 24",24,"VERDICT: CORRECT
+REASON: The solution correctly calculates the total number of movies watched in a week and then multiplies it by the number of weeks to find the total number of movies watched in 4 weeks.",CORRECT,,24,2,24,True,True
+14,long,"To solve this problem, we need to calculate the total number of questions Mark completed and subtract that from the total number of questions on both tests.
+
+First, let's calculate the number of questions Mark completed in the first test:
+Number of questions completed in the first test = Rate * Time
+= 5 questions/hour * 8 hours
+= 40 questions
+
+Next, let's calculate the number of questions Mark completed in the second test:
+Number of questions completed in the second test = Rate * Time
+= 5 questions/hour * 6 hours
+= 30 questions
+
+Now, let's calculate the total number of questions Mark completed:
+Total questions completed = Questions completed in the first test + Questions completed in the second test
+= 40 questions + 30 questions
+= 70 questions
+
+Finally, let's calculate the number of questions Mark left incomplete:
+Questions left incomplete = Total questions on both tests - Total questions completed
+= (75 questions + 100 questions) - 70 questions
+= 205 questions - 70 questions
+= 135 questions
+
+Final answer: 135",135,"VERDICT: WRONG
+REASON: The calculation for the total number of questions left incomplete is incorrect, as it should be the sum of the total questions on both tests minus the total questions completed, not the difference between the sum of the total questions and the total questions completed.",WRONG,"To solve this problem, we need to calculate the total number of questions Mark completed and subtract that from the total number of questions on both tests.
+
+First, let's calculate the number of questions Mark completed in the first test:
+Number of questions completed in the first test = Rate * Time
+= 5 questions/hour * 8 hours
+= 40 questions
+
+Next, let's calculate the number of questions Mark completed in the second test:
+Number of questions completed in the second test = Rate * Time
+= 5 questions/hour * 6 hours
+= 30 questions
+
+Now, let's calculate the total number of questions Mark completed:
+Total questions completed = Questions completed in the first test + Questions completed in the second test
+= 40 questions + 30 questions
+= 70 questions
+
+Finally, let's calculate the total number of questions on both tests:
+Total questions on both tests = Total questions on the first test + Total questions on the second test
+= 75 questions + 100 questions
+= 175 questions
+
+Now, let's calculate the number of questions Mark left incomplete:
+Questions left incomplete = Total questions on both tests - Total questions completed
+= 175 questions - 70 questions
+= 105 questions
+
+Final answer: 105",105,3,105,False,True
+15,court,"To solve this problem, we need to find out how many friends Amy has and then add the number of friends Lily has.
+
+We know that Lily made 50 friends. Since Amy made 20 more friends than Lily, we can calculate Amy's friends by adding 20 to Lily's friends.
+
+Amy's friends = Lily's friends + 20
+Amy's friends = 50 + 20
+Amy's friends = 70
+
+Now that we know Amy has 70 friends and Lily has 50 friends, we can find the total number of friends they have together.
+
+Total friends = Amy's friends + Lily's friends
+Total friends = 70 + 50
+Total friends = 120
+
+Final answer: 120",120,"VERDICT: CORRECT
+REASON: The solution accurately calculates Amy's friends by adding 20 to Lily's friends and then correctly adds the total number of friends together.",CORRECT,,120,2,120,True,True
+16,court,"To solve this problem, we need to find the number of good oranges. 
+
+First, let's find the number of unripe oranges. Since 20% of the oranges are unripe, we can calculate this as follows:
+20% of 25 = 0.20 * 25 = 5
+
+Now, we know that there are 5 unripe oranges. We also know that there is 1 bad orange and 2 sour oranges. So, the total number of bad, unripe, and sour oranges is:
+1 (bad) + 5 (unripe) + 2 (sour) = 8
+
+Since there are 25 oranges in total, the number of good oranges can be found by subtracting the total number of bad, unripe, and sour oranges from the total number of oranges:
+25 (total) - 8 (bad, unripe, and sour) = 17
+
+Therefore, the number of good oranges is 17.
+
+Final answer: 17",17,"VERDICT: CORRECT
+REASON: The solution correctly identifies the number of bad, unripe, and sour oranges and then accurately subtracts this total from the overall number of oranges to find the number of good oranges.",CORRECT,,17,2,17,True,True
+17,court,"To find the total cost, we need to calculate the cost of 6 erasers and 8 pencils separately and then add them together.
+
+1. Cost of 6 erasers: 6 erasers * $2/eraser = 6 * 2 = $12
+2. Cost of 8 pencils: 8 pencils * $3/pencil = 8 * 3 = $24
+
+Now, let's add the cost of 6 erasers and 8 pencils together:
+$12 + $24 = $36
+
+Final answer: $36",36,"VERDICT: CORRECT
+REASON: The solution correctly calculates the cost of 6 erasers and 8 pencils separately and then adds them together to find the total cost.",CORRECT,,36,2,36,True,True
+18,court,"To solve this problem, we need to break it down into steps.
+
+Step 1: Calculate the number of face masks Tyrion uses per day.
+Tyrion changes his face mask 2 times per outing, and he goes out 3 times a day. 
+So, the number of face masks he uses per day is 2 * 3 = 6.
+
+Step 2: Calculate the number of face masks Tyrion uses every 2 days.
+Since Tyrion uses 6 face masks per day, he will use 6 * 2 = 12 face masks every 2 days.
+
+Final answer: 12",12,"VERDICT: CORRECT
+REASON: The solution correctly breaks down the problem into steps, accurately calculates the number of face masks used per day, and then multiplies that by 2 to find the total used every 2 days.",CORRECT,,12,2,12,True,True
+19,long,"To solve this problem, we need to break it down step by step.
+
+Step 1: Max bought 16 snowflake stamps.
+
+Step 2: He bought 3 more truck stamps than snowflake stamps. 
+   Since he bought 16 snowflake stamps, he bought 16 + 3 = 19 truck stamps.
+
+Step 3: He bought 9 fewer rose stamps than truck stamps.
+   Since he bought 19 truck stamps, he bought 19 - 9 = 10 rose stamps.
+
+Step 4: To find the total number of stamps Max bought, we need to add the number of snowflake, truck, and rose stamps together.
+   Total stamps = snowflake stamps + truck stamps + rose stamps
+   Total stamps = 16 + 19 + 10
+   Total stamps = 45
+
+Final answer: 45",45,"VERDICT: CORRECT
+REASON: The solution accurately calculates the number of each type of stamp and then adds them together to find the total number of stamps Max bought.",CORRECT,,45,2,45,True,True
+20,long,"To solve this problem, let's break it down step by step.
+
+1. Initially, Katelyn saw 50 fairies flying above the nearby forest.
+
+2. After 20 minutes, one of her friends saw half as many fairies as Katelyn saw come from the east and join the fairies that were there. 
+   - Half of 50 is 25.
+   - So, 25 fairies joined from the east, making the total number of fairies 50 + 25 = 75.
+
+3. Ten minutes later, 30 fairies flew away.
+   - The total number of fairies remaining is 75 - 30 = 45.
+
+Final answer: 45",45,"VERDICT: CORRECT
+REASON: The solution accurately calculates the number of fairies that join from the east and then subtracts the fairies that flew away, resulting in the correct final answer of 45.",CORRECT,,45,2,45,True,True
+21,court,"To solve this problem, we need to convert the length of the wire from feet to inches, since the pieces are cut into 6-inch lengths.
+
+1 foot = 12 inches
+4 feet = 4 * 12 = 48 inches
+
+Now, we can divide the total length of the wire (48 inches) by the length of each piece (6 inches) to find the number of pieces:
+
+48 inches / 6 inches = 8
+
+So, Tracy obtained 8 pieces of wire.
+
+Final answer: 8",8,"VERDICT: CORRECT
+REASON: The solution correctly converts the wire length from feet to inches and then divides it by the piece length to find the number of pieces, resulting in the correct answer of 8.",CORRECT,,8,2,8,True,True
+22,long,"To solve this problem, we need to follow the steps:
+
+Step 1: Calculate the total number of seats in the auditorium.
+There are 4 rows of seats with 18 seats in each row. 
+Total seats = 4 * 18 = 72
+
+Step 2: Calculate the number of seats occupied by the administrators.
+One-fourth of the seats were occupied by the administrators.
+Seats occupied by administrators = 72 * (1/4) = 18
+
+Step 3: Calculate the number of remaining seats after the administrators left.
+Remaining seats = Total seats - Seats occupied by administrators
+= 72 - 18
+= 54
+
+Step 4: Calculate the number of seats occupied by the parents.
+One-third of the remaining seats were occupied by the parents.
+Seats occupied by parents = 54 * (1/3) = 18
+
+Step 5: Calculate the number of seats occupied by the students.
+The rest of the seats were occupied by the students.
+Seats occupied by students = Remaining seats - Seats occupied by parents
+= 54 - 18
+= 36
+
+Final answer: 36",36,"VERDICT: CORRECT
+REASON: The solution correctly follows the steps to calculate the number of seats occupied by the students, and the final answer matches the calculation.",CORRECT,,36,2,36,True,True
+23,long,"To solve this problem, we need to find the cost of one carrot. 
+
+Step 1: Find the cost of the yogurt. Since the yogurt is half the price of the salad, and the salad costs $6, the yogurt costs $6 / 2 = $3.
+
+Step 2: Calculate the total cost of the salad and yogurt. The total cost of the salad and yogurt is $6 + $3 = $9.
+
+Step 3: Find the cost of the carrots. Ellen pays $11 in total for her goods, and the salad and yogurt cost $9. So, the cost of the carrots is $11 - $9 = $2.
+
+Step 4: Find the cost of one carrot. Since Ellen eats two carrots every day, the cost of one carrot is $2 / 2 = $1.
+
+Final answer: $1",1,"VERDICT: CORRECT
+REASON: The solution correctly calculates the cost of the carrots and then divides by 2 to find the cost of one carrot, resulting in the correct answer of $1.",CORRECT,,1,2,1,True,True
+24,court,"To solve this problem, we need to find out how many points Erin had before scoring 14 points.
+
+We know that Erin now has three times more points than Sara. Since Sara scored 8 points, Erin now has 3 * 8 = 24 points.
+
+We also know that Erin scored 14 points. To find out how many points Erin had before scoring 14 points, we need to subtract 14 from 24.
+
+24 - 14 = 10
+
+So, Erin had 10 points before scoring 14 points.
+
+Final answer: 10",10,"VERDICT: CORRECT
+REASON: The solution correctly calculates Erin's initial points by subtracting the 14 points she scored from her current total of 24 points, resulting in 10 points.",CORRECT,,10,2,18,False,False
+25,long,"To find the total amount Scarlett spent, we need to calculate the cost of each item and add them together.
+
+1. Aquarium: $10.00
+2. 2 bags of rocks: 2 * $2.50 = $5.00
+3. 3 pieces of coral: 3 * $2.00 = $6.00
+4. 20 fish: 20 * $0.50 = $10.00
+5. Fish food: $2.00
+
+Now, let's add up the costs:
+$10.00 (aquarium) + $5.00 (rocks) = $15.00
+$15.00 + $6.00 (coral) = $21.00
+$21.00 + $10.00 (fish) = $31.00
+$31.00 + $2.00 (fish food) = $33.00
+
+Final answer: $33.00",33,"VERDICT: CORRECT
+REASON: The solution correctly calculates the total cost of each item and adds them together accurately, resulting in a final answer of $33.00.",CORRECT,,33,2,33,True,True
+26,long,"To solve this problem, we need to break it down into steps.
+
+Step 1: Calculate the total number of apartments in the first two complexes.
+The first two complexes have 200 apartments each, so the total number of apartments is 200 + 200 = 400.
+
+Step 2: Calculate the total number of apartments in the last complex.
+The last complex is 60% bigger than the other two combined. To find the number of apartments in the last complex, we need to calculate 60% of 400 and add it to 400.
+60% of 400 is 0.6 * 400 = 240.
+So, the last complex has 400 + 240 = 640 apartments.
+
+Step 3: Calculate the total number of apartments John collects garbage from in a week.
+John collects garbage from each complex 3 times a week. So, the total number of apartments he collects garbage from in a week is:
+400 (from the first two complexes) * 3 = 1200
++ 640 (from the last complex) * 3 = 1920
+Total number of apartments = 1200 + 1920 = 3120
+
+Step 4: Calculate the total amount of money John makes in a week.
+John gets paid $0.40 per collection for each apartment. So, the total amount of money he makes in a week is:
+3120 apartments * $0.40 per apartment = $1248
+
+Final answer: $1248",1248,"VERDICT: CORRECT
+REASON: The solution correctly breaks down the problem into steps, accurately calculates the total number of apartments and the total amount of money John makes in a week, and arrives at the final answer of $1248.",CORRECT,,1248,2,1248,True,True
+27,court,"To solve this problem, we need to find the probability of rolling a number greater than 3 and the probability of rolling two even numbers in a row.
+
+1. Probability of rolling a number greater than 3:
+There are 6 possible outcomes when rolling a six-sided die: 1, 2, 3, 4, 5, and 6. Out of these, 3 outcomes (4, 5, and 6) are greater than 3. So, the probability of rolling a number greater than 3 is 3/6 = 1/2 = 0.5.
+
+2. Probability of rolling two even numbers in a row:
+There are 3 even numbers on a six-sided die: 2, 4, and 6. The probability of rolling an even number on the first roll is 3/6 = 1/2. Since the rolls are independent, the probability of rolling an even number on the second roll is also 1/2. So, the probability of rolling two even numbers in a row is (1/2) * (1/2) = 1/4 = 0.25.
+
+3. Difference in probabilities:
+To find the difference in probabilities, we subtract the probability of rolling two even numbers in a row from the probability of rolling a number greater than 3: 0.5 - 0.25 = 0.25.
+
+4. Percentage difference:
+To express the difference as a percentage, we multiply by 100: 0.25 * 100 = 25%.
+
+Final answer: 25",25,"VERDICT: CORRECT
+REASON: The solution correctly calculates the probabilities and difference in probabilities, and then converts the difference to a percentage, resulting in the correct answer of 25%.",CORRECT,,25,2,25,True,True
+28,court,"To find the cost of each single bagel, we need to first calculate the total cost of the 4 packs of bagels with the 10% discount.
+
+1. Calculate the total cost of 4 packs of bagels without discount:
+   Each pack costs $10.00, and there are 4 packs.
+   Total cost = 4 * $10.00 = $40.00
+
+2. Calculate the 10% discount:
+   Discount = 10% of $40.00
+   Discount = 0.10 * $40.00 = $4.00
+
+3. Calculate the total cost with the 10% discount:
+   Total cost with discount = Total cost - Discount
+   Total cost with discount = $40.00 - $4.00 = $36.00
+
+4. Calculate the total number of bagels:
+   Each pack has 9 bagels, and there are 4 packs.
+   Total bagels = 4 * 9 = 36 bagels
+
+5. Calculate the cost of each single bagel:
+   Cost per bagel = Total cost with discount / Total bagels
+   Cost per bagel = $36.00 / 36 bagels
+   Cost per bagel = $1.00
+
+Final answer: $1.00",1,"VERDICT: CORRECT
+REASON: The solution correctly calculates the total cost with the discount and then divides it by the total number of bagels to find the cost per bagel.",CORRECT,,1,2,1,True,True
+29,court,"To solve this problem, let's break it down step by step.
+
+1. Let's denote the length of the shorter piece as x. Since the longer piece is 4 times longer than the shorter piece, the length of the longer piece is 4x.
+
+2. The total length of the board is 40 feet, and it's divided into two pieces. So, the sum of the lengths of the two pieces is equal to 40 feet. We can write this as an equation: x + 4x = 40.
+
+3. Combine like terms: 5x = 40.
+
+4. Divide both sides of the equation by 5 to solve for x: x = 40 / 5 = 8.
+
+5. Since the longer piece is 4 times longer than the shorter piece, the length of the longer piece is 4x = 4 * 8 = 32.
+
+Final answer: 32",32,"VERDICT: CORRECT
+REASON: The solution correctly sets up the equation, solves for x, and then calculates the length of the longer piece based on the relationship between the two pieces.",CORRECT,,32,2,32,True,True
+30,court,"To find out how many days the cat food will last, we need to calculate the total amount of cat food Imma feeds her cats per day and then divide the total amount of cat food available by that amount.
+
+1. Calculate the total amount of cat food Imma feeds her cats per day:
+   Since Imma feeds her 3 cats twice a day, the total amount of cat food per day is:
+   3 cats * 2 meals/day = 6 meals/day
+   Since each meal is 60 grams, the total amount of cat food per day is:
+   6 meals/day * 60 grams/meal = 360 grams/day
+
+2. Calculate the number of days the cat food will last:
+   Now, we divide the total amount of cat food available (720 grams) by the amount of cat food per day (360 grams):
+   720 grams / 360 grams/day = 2 days
+
+Final answer: 2",2,"VERDICT: CORRECT
+REASON: The solution correctly calculates the daily amount of cat food and then divides the total amount of cat food available by that amount to find the number of days it will last.",CORRECT,,2,2,2,True,True
+31,court,"To solve this problem, we'll break it down step by step.
+
+1. Nissa hires 60 seasonal workers to play elves. This is the initial number of elves.
+
+2. A third of the elves quit after children vomit on them. To find out how many elves quit, we need to calculate one-third of 60.
+   One-third of 60 = 60 / 3 = 20
+   So, 20 elves quit.
+
+3. The remaining elves are 60 - 20 = 40.
+
+4. Then, 10 of the remaining elves quit after kids kick their shins. To find out how many elves are left, we need to subtract 10 from the remaining elves.
+   40 - 10 = 30
+
+So, there are 30 elves left.
+
+Final answer: 30",30,"VERDICT: CORRECT
+REASON: The solution accurately calculates the number of elves who quit and then subtracts the additional 10 elves who quit, resulting in the correct final answer of 30.",CORRECT,,30,2,30,True,True
+32,long,"To find the total cost of the candies, we need to calculate the cost of each type of candy and add them together.
+
+Cost of type A candies: 7 candies * $0.5 = $3.50
+Cost of type B candies: 10 candies * $0.75 = $7.50
+Total cost of candies: $3.50 + $7.50 = $11.00
+
+Now, we need to find the change Adam got after paying $15. To do this, we subtract the total cost of the candies from the amount he paid:
+Change = $15 - $11.00 = $4.00
+
+Final answer: $4.00",4,"VERDICT: CORRECT
+REASON: The solution correctly calculates the total cost of the candies and then finds the change by subtracting the total cost from the amount paid, resulting in a change of $4.00.",CORRECT,,4,2,4,True,True
+33,long,"To solve this problem, we need to find the total distance Elvis traveled and then subtract the distance he traveled west from the distance he traveled east.
+
+Step 1: Calculate the distance Elvis traveled west.
+Distance = Speed * Time
+Distance = 18mph * 5 hours
+Distance = 90 miles
+
+Step 2: Calculate the distance Elvis traveled east.
+Distance = Speed * Time
+Distance = 18mph * 8 hours
+Distance = 144 miles
+
+Step 3: Since Elvis traveled west and then east, we need to find the net distance from his house.
+Net distance = Distance traveled east - Distance traveled west
+Net distance = 144 miles - 90 miles
+Net distance = 54 miles
+
+Final answer: 54",54,"VERDICT: WRONG
+REASON: The solution incorrectly calculates the net distance by subtracting the distance traveled west from the distance traveled east, but it should be the other way around since Elvis is now closer to his house after traveling east.",WRONG,"Here's the corrected solution:
+
+To solve this problem, we need to find the total distance Elvis traveled and then subtract the distance he traveled east from the distance he traveled west.
+
+Step 1: Calculate the distance Elvis traveled west.
+Distance = Speed * Time
+Distance = 18mph * 5 hours
+Distance = 90 miles
+
+Step 2: Calculate the distance Elvis traveled east.
+Distance = Speed * Time
+Distance = 18mph * 8 hours
+Distance = 144 miles
+
+Step 3: Since Elvis traveled west and then east, we need to find the net distance from his house.
+Net distance = Distance traveled west - Distance traveled east
+Net distance = 90 miles - 144 miles
+Net distance = -54 miles
+
+Since the net distance is negative, it means Elvis is now closer to his house. To find the actual distance from his house, we need to take the absolute value of the net distance.
+
+Final answer: 54",54,3,54,True,True
+34,long,"To solve this problem, we need to calculate the cost of Cameron's 12-hour stay and the cost of his 24-hour stay, and then find the difference between the two.
+
+First, let's calculate the cost of the 24-hour stay:
+- The initial cost for 12 hours is 1000 pesos.
+- The additional 12 hours will cost 70 pesos per hour, so 12 hours * 70 pesos/hour = 840 pesos.
+- The total cost for 24 hours is 1000 + 840 = 1840 pesos.
+
+Now, let's calculate the cost of the 12-hour stay with the option to add 70 pesos for every additional hour:
+- The initial cost for 12 hours is 1000 pesos.
+- Since Cameron wants to leave at 10 am the next morning, he will be staying for 5 hours after the 12-hour mark.
+- The additional 5 hours will cost 5 hours * 70 pesos/hour = 350 pesos.
+- The total cost for 12 hours with the option to add is 1000 + 350 = 1350 pesos.
+
+Now, let's find the difference between the two costs:
+- The cost of the 24-hour stay is 1840 pesos.
+- The cost of the 12-hour stay with the option to add is 1350 pesos.
+- The amount of money Cameron would save is 1840 - 1350 = 490 pesos.
+
+Final answer: 490",490,"VERDICT: CORRECT
+REASON: The solution accurately calculates the costs of both options and finds the difference between them, resulting in the correct amount of money Cameron would save.",CORRECT,,490,2,250,False,False
+35,long,"To find the total cost, we need to calculate the cost of the standard installation and the cost of the additional items.
+
+1. Calculate the cost of the standard installation:
+   - Mirrors: 4 (standard) + 6 (Angela's) = 10 mirrors
+   - Shelves: 2 (standard)
+   - Chandeliers: 1 (standard) + 2 (Angela's) = 3 chandeliers
+   - Pictures: 10 (standard) + 20 (Angela's) = 30 pictures
+
+   The cost of the standard installation is $129.00.
+
+2. Calculate the cost of the additional items:
+   - Mirrors: 6 (Angela's) - 4 (standard) = 2 extra mirrors
+   - Chandeliers: 2 (Angela's) - 1 (standard) = 1 extra chandelier
+   - Pictures: 20 (Angela's) - 10 (standard) = 10 extra pictures
+
+   The cost of the additional items is $15.00 per item. So, the total cost of the additional items is:
+   - Mirrors: 2 * $15.00 = $30.00
+   - Chandeliers: 1 * $15.00 = $15.00
+   - Pictures: 10 * $15.00 = $150.00
+
+   The total cost of the additional items is $30.00 + $15.00 + $150.00 = $195.00.
+
+3. Calculate the total cost:
+   - Cost of standard installation: $129.00
+   - Cost of additional items: $195.00
+   - Total cost: $129.00 + $195.00 = $324.00
+
+Final answer: $324.00",324,"VERDICT: CORRECT
+REASON: The solution accurately calculates the cost of the standard installation and the additional items, and then correctly adds these costs together to find the total cost.",CORRECT,,324,2,324,True,True
+36,court,"To find the value of Juan's house, we need to calculate 30% of Herb's house value and subtract that from Herb's house value.
+
+Herb's house value: $76,000
+30% of $76,000 = 0.3 * $76,000 = $22,800
+
+Now, subtract 30% of Herb's house value from Herb's house value to find Juan's house value:
+$76,000 - $22,800 = $53,200
+
+The value of Juan's house is $53,200.
+
+To find the combined value of the two houses, add the values of both houses:
+$76,000 (Herb's house) + $53,200 (Juan's house) = $129,200
+
+Final answer: $129,200",129200,"VERDICT: CORRECT
+REASON: The solution correctly calculates the value of Juan's house by finding 30% of Herb's house value and subtracting it, then adds the values of both houses to find the combined value.",CORRECT,,129200,2,129200,True,True
+37,long,"To solve this problem, we need to break it down into steps.
+
+Step 1: Calculate the number of movies in series.
+A third of the movies are in series. 
+Number of movies in series = Total number of movies / 3
+= 600 / 3
+= 200
+
+Step 2: Calculate the cost of the movies in series.
+The cost of the movies in series is $6 less than the cost of a normal movie.
+Cost of movies in series = (Cost of a normal movie - $6) * Number of movies in series
+= ($10 - $6) * 200
+= $4 * 200
+= $800
+
+Step 3: Calculate the number of remaining movies.
+Number of remaining movies = Total number of movies - Number of movies in series
+= 600 - 200
+= 400
+
+Step 4: Calculate the number of older movies.
+40% of the remaining movies are older movies.
+Number of older movies = 0.4 * Number of remaining movies
+= 0.4 * 400
+= 160
+
+Step 5: Calculate the cost of the older movies.
+Cost of older movies = Number of older movies * Cost of an older movie
+= 160 * $5
+= $800
+
+Step 6: Calculate the total cost of replacing the movies.
+Total cost = Cost of movies in series + Cost of older movies
+= $800 + $800
+= $1600
+
+Final answer: $1600",1600,"VERDICT: CORRECT
+REASON: The solution correctly breaks down the problem into steps, accurately calculates the number of movies in series, the cost of those movies, the number of older movies, the cost of those older movies, and finally, the total cost of replacing the movies.",CORRECT,,1600,2,4400,False,False
+38,long,"To find the total length of crepe paper needed, we need to calculate the perimeter of the rectangular fence. The perimeter is the distance around the outside of the rectangle.
+
+Step 1: Calculate the perimeter of the rectangle.
+The formula for the perimeter of a rectangle is: Perimeter = 2 × (length + width)
+In this case, the length is 20 feet and the width is 15 feet.
+
+Perimeter = 2 × (20 + 15)
+Perimeter = 2 × 35
+Perimeter = 70 feet
+
+Step 2: Since the crepe paper will be hung from the fence, we need to consider the entire perimeter.
+
+Final answer: 70",70,"VERDICT: CORRECT
+REASON: The solution correctly applies the formula for the perimeter of a rectangle and calculates the total length of crepe paper needed to hang from the entire fence.",CORRECT,,70,2,70,True,True
+39,court,"To find the total cost, we need to calculate the cost of the cars, the tax, and the registration fees.
+
+1. Cost of the cars:
+Number of cars: 12
+Price per car: $20,000
+Total cost of cars: 12 * $20,000 = $240,000
+
+2. Tax on the cars:
+Tax rate: 10%
+Tax amount: $240,000 * 0.10 = $24,000
+
+3. Registration fees:
+Number of cars: 12
+Registration fee per car: $1,000
+Total registration fee: 12 * $1,000 = $12,000
+
+4. Total cost:
+Total cost = Cost of cars + Tax + Registration fees
+Total cost = $240,000 + $24,000 + $12,000
+Total cost = $276,000
+
+Final answer: $276,000",276000,"VERDICT: CORRECT
+REASON: The solution accurately calculates the total cost of the cars, tax, and registration fees, and then correctly adds them together to arrive at the final total.",CORRECT,,276000,2,276000,True,True
+40,long,"To solve this problem, we need to break it down into steps.
+
+Step 1: Calculate the number of groups.
+Since there are 90 people and each group has 9 members, we can calculate the number of groups by dividing 90 by 9.
+90 ÷ 9 = 10
+
+Step 2: Calculate the number of groups that had members bring back seashells.
+Since 3/5 of the number of groups had members bring back seashells, we can calculate this by multiplying the total number of groups by 3/5.
+10 * (3/5) = 6
+
+Step 3: Calculate the total number of seashells brought back.
+Since each of the 6 groups had 2 seashells each, we can calculate the total number of seashells by multiplying the number of groups by 2.
+6 * 2 = 12
+
+Final answer: 12",12,"VERDICT: CORRECT
+REASON: The solution correctly breaks down the problem into steps, accurately calculates the number of groups and the number of groups with seashells, and then correctly calculates the total number of seashells brought back.",CORRECT,,12,2,108,False,False
+41,court,"To find the cost of the six-inch cold-cut combo sub, we need to calculate thrice the cost of the foot-long fish sub.
+
+Cost of foot-long fish sub: $40
+Thrice the cost: 3 * $40 = $120
+
+Now, we need to add the cost of the six-inch cold-cut combo sub to the cost of the foot-long fish sub.
+
+Total cost = Cost of foot-long fish sub + Cost of six-inch cold-cut combo sub
+Total cost = $40 + $120
+Total cost = $160
+
+Final answer: $160",160,"VERDICT: WRONG
+REASON: The solution incorrectly calculates the cost of the six-inch cold-cut combo sub as $120, which is thrice the cost of the foot-long fish sub, but it should be calculated as a fraction of the foot-long fish sub's cost, not the entire cost.",WRONG,"To find the cost of the six-inch cold-cut combo sub, we need to calculate a fraction of the cost of the foot-long fish sub.
+
+Cost of foot-long fish sub: $40
+Since the six-inch cold-cut combo sub is one-third the size of the foot-long fish sub, we need to divide the cost of the foot-long fish sub by 3.
+
+Cost of six-inch cold-cut combo sub = Cost of foot-long fish sub / 3
+Cost of six-inch cold-cut combo sub = $40 / 3
+Cost of six-inch cold-cut combo sub = $13.33
+
+Now, we need to add the cost of the six-inch cold-cut combo sub to the cost of the foot-long fish sub.
+
+Total cost = Cost of foot-long fish sub + Cost of six-inch cold-cut combo sub
+Total cost = $40 + $13.33
+Total cost = $53.33
+
+Final answer: $53.33",53.33,3,160,True,False
+42,court,"To solve the problem, let's break it down step by step:
+
+1. Johnny started with $20 and added an extra $10 to it. 
+   Initial amount = $20
+   Additional amount = $10
+   Total amount = Initial amount + Additional amount
+   Total amount = $20 + $10
+   Total amount = $30
+
+2. He then invested this sum of money, which tripled in a year.
+   Since the total amount is $30, and it tripled, we can multiply it by 3 to find the final amount.
+   Final amount = Total amount * 3
+   Final amount = $30 * 3
+   Final amount = $90
+
+Final answer: $90",90,"VERDICT: CORRECT
+REASON: The solution correctly calculates the initial total amount and then correctly multiplies it by 3 to find the final amount after the investment.",CORRECT,,90,2,90,True,True
+43,court,"To find the number of votes the loser got, we need to first find the number of votes the winner got. 
+
+Since the winner got 3/4 of the votes, we can calculate the number of votes the winner got by multiplying the total number of students who voted (80) by 3/4.
+
+Number of votes the winner got = 80 * (3/4) = 60
+
+Now, we know that the total number of votes is 80, and the winner got 60 votes. To find the number of votes the loser got, we subtract the number of votes the winner got from the total number of votes.
+
+Number of votes the loser got = Total number of votes - Number of votes the winner got
+= 80 - 60
+= 20
+
+Final answer: 20",20,"VERDICT: CORRECT
+REASON: The solution correctly calculates the number of votes the winner got and then subtracts that from the total number of votes to find the number of votes the loser got, resulting in the correct answer of 20.",CORRECT,,20,2,20,True,True
+44,long,"To find the total cost of Helen's trip, we need to calculate the cost of the hotel and the bus trips separately and then add them together.
+
+1. Cost of the hotel:
+   - One night at the hotel costs $80.
+   - Helen booked the hotel for 3 nights.
+   - Total cost of the hotel = $80 * 3 = $240.
+
+2. Cost of the bus trips:
+   - Each bus trip costs 10% of the price of one night at the hotel.
+   - One night at the hotel costs $80.
+   - 10% of $80 = 0.1 * $80 = $8.
+   - Helen rode the bus 7 times.
+   - Total cost of the bus trips = $8 * 7 = $56.
+
+3. Total cost of the trip:
+   - Total cost of the hotel = $240.
+   - Total cost of the bus trips = $56.
+   - Total cost of the trip = $240 + $56 = $296.
+
+Final answer: $296",296,"VERDICT: CORRECT
+REASON: The solution correctly calculates the total cost of the hotel and bus trips and adds them together to find the total cost of the trip.",CORRECT,,296,2,296,True,True
+45,long,"To solve this problem, we need to find the prices of the gold and silver jewels.
+
+1. The price of a diamond Jewell is $2000.
+
+2. The price of a gold Jewell is 4/5 times as much as the price of a diamond Jewell.
+   Price of gold = (4/5) * Price of diamond
+   Price of gold = (4/5) * $2000
+   Price of gold = $1600
+
+3. The cost of a silver Jewell is $400 less than the price of gold.
+   Price of silver = Price of gold - $400
+   Price of silver = $1600 - $400
+   Price of silver = $1200
+
+4. To find the total price for all three jewels, we need to add the prices of diamond, gold, and silver jewels.
+   Total price = Price of diamond + Price of gold + Price of silver
+   Total price = $2000 + $1600 + $1200
+   Total price = $4800
+
+Final answer: $4800",4800,"VERDICT: CORRECT
+REASON: The solution correctly calculates the prices of the gold and silver jewels and then adds them to the price of the diamond jewel to find the total price.",CORRECT,,4800,2,4800,True,True
+46,court,"To solve this problem, we need to find the ages of Nani's brother and sister.
+
+1. Nani's brother is twice his age, so his age is 2 * 8 = 16 years.
+
+2. Nani's sister is 25% younger than him. To find her age, we need to calculate 25% of Nani's age and subtract it from his age.
+   25% of 8 is 0.25 * 8 = 2 years.
+   So, Nani's sister is 8 - 2 = 6 years old.
+
+3. Now, we have the ages of all three family members: Nani (8 years), Nani's brother (16 years), and Nani's sister (6 years).
+
+4. To find the total age of all three family members, we add their ages together:
+   8 + 16 + 6 = 30 years.
+
+Final answer: 30",30,"VERDICT: CORRECT
+REASON: The solution correctly calculates the ages of Nani's brother and sister and then adds their ages to find the total age of all three family members.",CORRECT,,30,2,30,True,True
+47,court,"To find the total number of centimeters the candle will be shorter, we need to calculate the total number of hours it burns.
+
+The candle burns from 1:00 PM to 5:00 PM, which is a total of 4 hours.
+
+Since the candle melts by 2 centimeters every hour, we multiply the number of hours by the rate of melting:
+
+4 hours * 2 cm/hour = 8 cm
+
+So, the candle will be 8 centimeters shorter after burning from 1:00 PM to 5:00 PM.
+
+Final answer: 8",8,"VERDICT: CORRECT
+REASON: The calculation of 4 hours * 2 cm/hour is accurate, resulting in a total of 8 centimeters, which is the correct amount the candle will be shorter.",CORRECT,,8,2,8,True,True
+48,long,"To find the total cost of the potting soil, we need to calculate the total volume of the raised beds and then divide it by the volume of each bag of soil.
+
+Step 1: Calculate the volume of one raised bed.
+Volume = Length x Width x Height
+Volume = 8 feet x 2 feet x 2 feet
+Volume = 32 cubic feet
+
+Step 2: Calculate the total volume of all 10 raised beds.
+Total Volume = Volume of one bed x Number of beds
+Total Volume = 32 cubic feet x 10
+Total Volume = 320 cubic feet
+
+Step 3: Calculate the number of bags of soil needed.
+Each bag holds 2 cubic feet of soil.
+Number of bags = Total Volume / Volume per bag
+Number of bags = 320 cubic feet / 2 cubic feet
+Number of bags = 160 bags
+
+Step 4: Calculate the total cost of the potting soil.
+Each bag costs $12.
+Total Cost = Number of bags x Cost per bag
+Total Cost = 160 bags x $12
+Total Cost = $1920
+
+Final answer: $1920",1920,"VERDICT: CORRECT
+REASON: The solution correctly calculates the total volume of the raised beds, determines the number of bags needed, and multiplies that by the cost per bag to arrive at the total cost.",CORRECT,,1920,2,1920,True,True
+49,long,"To solve this problem, we need to break it down step by step.
+
+1. We know that Benny threw 58 pieces of bologna in total.
+2. We also know that he threw 2 pieces of bologna at each red balloon and 3 pieces of bologna at each yellow balloon.
+3. Since there are 20 red balloons, the total number of pieces of bologna thrown at red balloons is 2 * 20 = 40.
+4. To find out how many pieces of bologna were thrown at yellow balloons, we subtract the number of pieces thrown at red balloons from the total: 58 - 40 = 18.
+5. Since each yellow balloon requires 3 pieces of bologna, we can find the number of yellow balloons by dividing the total number of pieces thrown at yellow balloons by 3: 18 / 3 = 6.
+
+Final answer: 6",6,"VERDICT: CORRECT
+REASON: The solution correctly calculates the number of pieces of bologna thrown at yellow balloons and then divides that by the number of pieces thrown per yellow balloon to find the correct number of yellow balloons.",CORRECT,,6,2,6,True,True
+50,court,"To solve this problem, let's break it down step by step.
+
+Let Jerry's current age be x.
+
+Since Jerry is twice as old as he was 5 years ago, we can set up the equation:
+
+x = 2(x - 5)
+
+Now, let's simplify the equation:
+
+x = 2x - 10
+
+Subtract x from both sides:
+
+0 = x - 10
+
+Add 10 to both sides:
+
+10 = x
+
+So, Jerry's current age is 10 years.
+
+To find Jerry's age in 3 years, we add 3 to his current age:
+
+10 + 3 = 13
+
+Therefore, Jerry will be 13 years old in 3 years.
+
+Final answer: 13",13,"VERDICT: CORRECT
+REASON: The solution correctly sets up the equation, solves for Jerry's current age, and then calculates his age in 3 years, following the correct mathematical steps.",CORRECT,,13,2,13,True,True
+51,court,"To solve this problem, let's break it down step by step.
+
+Let's denote the amount taken by the first person as x.
+
+Since the second person took $80 more than the first person, the amount taken by the second person is x + 80.
+
+The third person took twice what the second person took, so the amount taken by the third person is 2(x + 80).
+
+We know that the total amount is $1920, so we can set up the equation:
+
+x + (x + 80) + 2(x + 80) = 1920
+
+Combine like terms:
+
+x + x + 80 + 2x + 160 = 1920
+
+Combine like terms again:
+
+4x + 240 = 1920
+
+Subtract 240 from both sides:
+
+4x = 1680
+
+Divide both sides by 4:
+
+x = 420
+
+So, the first person took $420.
+
+Final answer: 420",420,"VERDICT: CORRECT
+REASON: The solution correctly sets up the equation, combines like terms, and solves for x, resulting in the first person taking $420.",CORRECT,,420,2,420,True,True
+52,court,"To solve the problem, we need to follow the steps:
+
+1. Calculate the total amount of water the two girls got: 
+   Since each girl got 1/6 of the 24 liters, we can calculate the total amount of water they got by adding their portions:
+   1/6 + 1/6 = 2/6 = 1/3
+
+   So, the two girls got 1/3 of the 24 liters, which is:
+   1/3 * 24 = 8 liters
+
+2. Calculate the total amount of water the two girls and the boy got:
+   The two girls got 8 liters, and the boy got 6 liters, so the total amount of water they got is:
+   8 + 6 = 14 liters
+
+3. Calculate the amount of water left:
+   The total amount of water was 24 liters, and the two girls and the boy got 14 liters, so the amount of water left is:
+   24 - 14 = 10 liters
+
+Final answer: 10",10,"VERDICT: CORRECT
+REASON: The solution correctly calculates the amount of water the girls and boy got, and then accurately subtracts that from the total to find the amount left.",CORRECT,,10,2,10,True,True
+53,court,"To solve this problem, we need to find out how many penguins are left sunbathing after one-third of them jump in the ocean and another one-third go inside the cave.
+
+First, let's find out how many penguins jump in the ocean. Since one-third of the penguins jump in, we can calculate this by dividing 36 by 3.
+
+36 ÷ 3 = 12
+
+So, 12 penguins jump in the ocean.
+
+Next, let's find out how many penguins go inside the cave to eat their dinner. Again, since one-third of the penguins go inside, we can calculate this by dividing 36 by 3.
+
+36 ÷ 3 = 12
+
+So, 12 penguins go inside the cave.
+
+Now, let's find out how many penguins are left sunbathing. We can do this by subtracting the number of penguins that jumped in the ocean and the number of penguins that went inside the cave from the total number of penguins.
+
+36 - 12 - 12 = 12
+
+So, 12 penguins are still left sunbathing.
+
+Final answer: 12",12,"VERDICT: WRONG
+REASON: The solution incorrectly assumes that the penguins that jump in the ocean and go inside the cave are mutually exclusive, when in fact, it's possible that some penguins could be doing both, so the subtraction method used is not accurate.",WRONG,"To solve this problem, we need to find out how many penguins are left sunbathing after one-third of them jump in the ocean and another one-third go inside the cave.
+
+First, let's find out how many penguins jump in the ocean. Since one-third of the penguins jump in, we can calculate this by dividing 36 by 3.
+
+36 ÷ 3 = 12
+
+So, 12 penguins jump in the ocean.
+
+Next, let's find out how many penguins go inside the cave to eat their dinner. Again, since one-third of the penguins go inside, we can calculate this by dividing 36 by 3.
+
+36 ÷ 3 = 12
+
+So, 12 penguins go inside the cave.
+
+However, we cannot assume that the penguins that jump in the ocean and go inside the cave are mutually exclusive. It's possible that some penguins could be doing both. To accurately find the number of penguins left sunbathing, we need to consider the overlap.
+
+Let's assume that x penguins go both in the ocean and inside the cave. Then, the total number of penguins that jump in the ocean or go inside the cave is 12 + 12 - x (since we counted the penguins that do both twice).
+
+The number of penguins left sunbathing is the total number of penguins minus the number of penguins that jump in the ocean or go inside the cave.
+
+36 - (12 + 12 - x) = 36 - 24 + x = 12 + x
+
+Since we know that the number of penguins left sunbathing must be a whole number, we can try different values of x to find the correct answer.
+
+If x = 0, then 12 + 0 = 12, which is not possible since some penguins must be doing both.
+
+If x = 1, then 12 + 1 = 13, which is not possible since some penguins must be doing both.
+
+If x = 2, then 12 + 2 = 14, which is not possible since some penguins must be doing both.
+
+If x = 3, then 12 + 3 = 15, which is not possible since some penguins must be doing both.
+
+If x = 4, then 12 + 4 = 16, which is not possible since some penguins must be doing both.
+
+If x = 5, then 12 + 5 = 17, which is not possible since some penguins must be doing both.
+
+If x = 6, then 12 + 6 = 18, which is not possible since some penguins must be doing both.
+
+If x = 7, then 12 + 7 = 19, which is not possible since some penguins must be doing both.
+
+If x = 8, then 12 + 8",,3,12,True,False
+54,long,"To solve the problem, we need to find out how many shells Kylie collected on Monday and then calculate how many she collected on Tuesday.
+
+1. On Monday, Robert collects 20 shells. Since Kylie collects 5 more shells than Robert, we can calculate the number of shells Kylie collects on Monday by adding 5 to Robert's total:
+   Kylie's shells on Monday = 20 + 5 = 25
+
+2. On Tuesday, Kylie collects 2 times more shells than she did on Monday. To find out how many shells Kylie collects on Tuesday, we need to multiply the number of shells she collected on Monday by 2:
+   Kylie's shells on Tuesday = 2 * 25 = 50
+
+Final answer: 50",50,"VERDICT: CORRECT
+REASON: The solution correctly calculates the number of shells Kylie collects on Monday and then multiplies that number by 2 to find the number of shells she collects on Tuesday.",CORRECT,,50,2,50,True,True
+55,long,"To find out how many water bottles Bill needs, we need to calculate the total number of bottles he already has and the total number of bottles he needs.
+
+Step 1: Calculate the total number of bottles Bill already has.
+Bill has 2 cases of water, and each case has 24 bottles.
+Total bottles = 2 cases * 24 bottles/case = 48 bottles
+
+Step 2: Calculate the total number of bottles Bill needs.
+Bill has 70 guests, and he wants 2 bottles of water for each guest.
+Total bottles needed = 70 guests * 2 bottles/guest = 140 bottles
+
+Step 3: Calculate the additional number of bottles Bill needs to buy.
+Additional bottles needed = Total bottles needed - Total bottles already has
+= 140 bottles - 48 bottles
+= 92 bottles
+
+Final answer: 92",92,"VERDICT: CORRECT
+REASON: The solution accurately calculates the total number of bottles Bill already has, the total number of bottles he needs, and then correctly determines the additional number of bottles he needs to buy.",CORRECT,,92,2,92,True,True
+56,court,"To solve this problem, we need to find Alex's weight first. 
+
+Step 1: Find Alex's weight
+Alex weighs 2 pounds less than 4 times what Grace weighs. 
+So, we multiply Grace's weight by 4 and then subtract 2.
+Alex's weight = (4 * 125) - 2
+Alex's weight = 500 - 2
+Alex's weight = 498 pounds
+
+Step 2: Find their combined weights
+Now, we add Grace's weight and Alex's weight to find their combined weight.
+Combined weight = Grace's weight + Alex's weight
+Combined weight = 125 + 498
+Combined weight = 623 pounds
+
+Final answer: 623",623,"VERDICT: CORRECT
+REASON: The solution correctly calculates Alex's weight as 498 pounds and then finds their combined weight as 623 pounds, which is the sum of Grace's weight (125 pounds) and Alex's weight (498 pounds).",CORRECT,,623,2,623,True,True
+57,long,"To find the correct number of people who attended the concert, we need to calculate 20% of the number Courtney reported and subtract that from Courtney's number.
+
+Step 1: Calculate 20% of 48.
+20% of 48 = (20/100) * 48 = 0.2 * 48 = 9.6
+
+Step 2: Subtract 20% of 48 from Courtney's number.
+Correct number of people = Courtney's number - 20% of 48
+= 48 - 9.6
+= 38.4
+
+Final answer: 38.4",38.4,"VERDICT: WRONG
+REASON: The calculation for 20% of 48 is correct, but the subtraction of 9.6 from 48 results in a non-integer answer, which is not possible in this context.",WRONG,"Here's the corrected solution:
+
+Problem:
+Courtney attended a concert and reported that the audience was 48 in number. However, Kelly went to the same concert and said that Courtney had made the mistake of overstating the number of people in attendance by 20%. If Kelly was right, how many people really attended the concert?
+
+Step 1: Calculate 20% of 48.
+20% of 48 = (20/100) * 48 = 0.2 * 48 = 9.6
+
+Step 2: Since the number of people must be a whole number, we need to round down 9.6 to the nearest whole number.
+Rounded 20% of 48 = 9
+
+Step 3: Subtract the rounded 20% of 48 from Courtney's number.
+Correct number of people = Courtney's number - rounded 20% of 48
+= 48 - 9
+= 39
+
+Final answer: 39",39,3,40,False,False
+58,long,"To solve this problem, we'll break it down into steps.
+
+Step 1: Calculate the distance James swims initially.
+Distance James swims initially = 20 miles * 0.6 = 12 miles
+
+Step 2: Calculate the time it takes James to swim 12 miles.
+Time = Distance / Speed
+Time = 12 miles / 2 miles per hour
+Time = 6 hours
+
+Step 3: Calculate the time James rests on the island.
+Time James rests = Time James swims / 2
+Time James rests = 6 hours / 2
+Time James rests = 3 hours
+
+Step 4: Calculate the remaining distance James needs to swim.
+Remaining distance = Total distance - Distance James swims initially
+Remaining distance = 20 miles - 12 miles
+Remaining distance = 8 miles
+
+Step 5: Calculate James' speed for the remaining distance.
+James' speed for the remaining distance = 2 miles per hour / 2
+James' speed for the remaining distance = 1 mile per hour
+
+Step 6: Calculate the time it takes James to swim the remaining distance.
+Time = Distance / Speed
+Time = 8 miles / 1 mile per hour
+Time = 8 hours
+
+Step 7: Calculate the total time it takes James to get across the lake.
+Total time = Time James swims + Time James rests + Time James swims the remaining distance
+Total time = 6 hours + 3 hours + 8 hours
+Total time = 17 hours
+
+Final answer: 17",17,"VERDICT: WRONG
+REASON: The total time calculated includes the time James rested, but the problem states he rested for half as long as the swimming time, not the total time.",WRONG,"To solve this problem, we'll break it down into steps.
+
+Step 1: Calculate the distance James swims initially.
+Distance James swims initially = 20 miles * 0.6 = 12 miles
+
+Step 2: Calculate the time it takes James to swim 12 miles.
+Time = Distance / Speed
+Time = 12 miles / 2 miles per hour
+Time = 6 hours
+
+Step 3: Calculate the time James rests on the island.
+Time James rests = Time James swims / 2
+Time James rests = 6 hours / 2
+Time James rests = 3 hours
+
+Step 4: Calculate the remaining distance James needs to swim.
+Remaining distance = Total distance - Distance James swims initially
+Remaining distance = 20 miles - 12 miles
+Remaining distance = 8 miles
+
+Step 5: Calculate James' speed for the remaining distance.
+James' speed for the remaining distance = 2 miles per hour / 2
+James' speed for the remaining distance = 1 mile per hour
+
+Step 6: Calculate the time it takes James to swim the remaining distance.
+Time = Distance / Speed
+Time = 8 miles / 1 mile per hour
+Time = 8 hours
+
+Step 7: Calculate the total time it takes James to get across the lake.
+Total time = Time James swims + Time James rests
+Total time = 6 hours + 3 hours
+Total time = 9 hours
+
+Step 8: Calculate the additional time James spends resting after swimming the remaining distance.
+Additional time James rests = Time James rests / 2
+Additional time James rests = 3 hours / 2
+Additional time James rests = 1.5 hours
+
+Step 9: Calculate the total time it takes James to get across the lake.
+Total time = Time James swims + Time James rests + Additional time James rests
+Total time = 6 hours + 3 hours + 1.5 hours
+Total time = 10.5 hours
+
+Final answer: 10.5",10.5,3,17,True,False
+59,court,"To find the total expenditure, we need to calculate the expenditure for each month and add them together.
+
+Step 1: Calculate the expenditure for June.
+Expenditure in June = Expenditure in May - $60
+Expenditure in June = $500 - $60
+Expenditure in June = $440
+
+Step 2: Calculate the total expenditure for the two months.
+Total expenditure = Expenditure in May + Expenditure in June
+Total expenditure = $500 + $440
+Total expenditure = $940
+
+Final answer: $940",940,"VERDICT: CORRECT
+REASON: The solution correctly calculates the expenditure for June and then adds it to the expenditure for May to find the total expenditure for the two months.",CORRECT,,940,2,940,True,True
+60,court,"To find the combined length of the remoras, we need to convert their length to feet and then add them together. Since there are 2 remoras, we'll multiply the length of one remora by 2.
+
+1 remora = 6 inches
+1 foot = 12 inches
+So, 1 remora = 6/12 = 0.5 feet
+
+Combined length of remoras = 2 * 0.5 feet = 1 foot
+
+Now, we need to find the percentage of the shark's body length that the combined length of the remoras represents. To do this, we'll divide the combined length of the remoras by the shark's body length and multiply by 100.
+
+Combined length of remoras = 1 foot
+Shark's body length = 10 feet
+
+Percentage = (Combined length of remoras / Shark's body length) * 100
+= (1 / 10) * 100
+= 0.1 * 100
+= 10%
+
+Final answer: 10",10,"VERDICT: CORRECT
+REASON: The solution correctly calculates the combined length of the remoras and then finds the percentage of the shark's body length that they represent, resulting in an accurate final answer of 10%.",CORRECT,,10,2,10,True,True
+61,court,"To find the total time the choir will be caroling, we need to add the time it takes to sing ""Deck the Halls"" twice and the time it takes to sing ""Jingle Bells"" once.
+
+Step 1: Calculate the time it takes to sing ""Deck the Halls"" twice.
+Time for ""Deck the Halls"" twice = 2 * 150 seconds = 300 seconds
+
+Step 2: Add the time it takes to sing ""Jingle Bells"" once to the time calculated in Step 1.
+Total time = Time for ""Deck the Halls"" twice + Time for ""Jingle Bells""
+Total time = 300 seconds + 240 seconds
+Total time = 540 seconds
+
+Final answer: 540",540,"VERDICT: CORRECT
+REASON: The solution correctly calculates the total time by adding the time for ""Deck the Halls"" twice and ""Jingle Bells"" once, resulting in a total of 540 seconds.",CORRECT,,540,2,540,True,True
+62,court,"To find out how much Gerald has left, we need to first calculate how much he earned in a week.
+
+Gerald earns $30 per day. There are 7 days in a week, so we multiply the daily wage by 7:
+
+$30 * 7 = $210
+
+This is the total amount Gerald earned in a week.
+
+However, Gerald spent a total of $100. To find out how much he has left, we subtract the amount he spent from the amount he earned:
+
+$210 - $100 = $110
+
+So, Gerald has $110 left.
+
+Final answer: $110",110,"VERDICT: WRONG
+REASON: The calculation of Gerald's weekly earnings is incorrect, as it should be $30 * 7 = $210, but the problem states he spent $100, which means he couldn't have earned $210.",WRONG,"Here's the corrected solution:
+
+1. To find out how much Gerald has left, we need to first calculate how much he earned in a week.
+
+2. Gerald earns $30 per day. There are 7 days in a week, so we multiply the daily wage by 7:
+
+$30 * 7 = $210
+
+However, we need to consider the fact that Gerald spent a total of $100. This means that he couldn't have earned $210, as he would have spent more than he earned. Let's recalculate the amount he could have earned.
+
+3. Since Gerald spent $100, we can assume that he earned less than $210. To find the correct amount, we can try to find the maximum amount he could have earned.
+
+4. Let's assume Gerald earned x dollars per week. Since he spent $100, we can set up the equation:
+
+x - $100 = $0 (since he has no money left)
+
+5. Solving for x, we get:
+
+x = $100
+
+However, this is not possible, as Gerald earns $30 per day. Let's try again.
+
+6. Since Gerald earns $30 per day, we can calculate the maximum amount he could have earned in a week:
+
+$30 * 7 = $210
+
+However, we know that he spent $100, so we need to find the correct amount he earned.
+
+7. Let's try to find the amount he earned by subtracting the amount he spent from the maximum amount he could have earned:
+
+$210 - $100 = $110
+
+However, this is still incorrect, as we know that Gerald earned less than $210.
+
+8. Let's try again. Since Gerald earns $30 per day, we can calculate the amount he earned by dividing the amount he spent by the number of days he worked:
+
+$100 ÷ 7 = $14.29 (approximately)
+
+9. Since Gerald earns $30 per day, we can calculate the number of days he worked:
+
+$14.29 ÷ $30 = 0.476 (approximately)
+
+10. Since Gerald can't work a fraction of a day, we can round down to the nearest whole number. Let's assume he worked 0 days.
+
+11. However, this is not possible, as Gerald worked for an entire week.
+
+12. Let's try again. Since Gerald earns $30 per day, we can calculate the amount he earned by dividing the amount he spent by the number of days he worked:
+
+$100 ÷ 7 = $14.29 (approximately)
+
+13. Since Gerald earns $30 per day, we can calculate the number of days he worked:
+
+$14.29 ÷ $30 = 0.476 (approximately)
+
+14. Since Gerald can't work a fraction of a day, we can round down to the nearest whole number. Let's assume he worked 0 days, but this is not possible.
+
+15. Let's",,3,110,True,False
+63,court,"To solve this problem, let's break it down into steps.
+
+Step 1: Let's denote Wendy's current age as W and Colin's current age as C.
+
+Step 2: According to the first statement, Wendy is five times as old as Colin will be seven years from now. This can be written as:
+W = 5(C + 7)
+
+Step 3: According to the second statement, in 25 years, Colin will be a third as old as Wendy is now. This can be written as:
+C + 25 = (1/3)W
+
+Step 4: Now, we can substitute the expression for W from Step 2 into the equation from Step 3:
+C + 25 = (1/3)(5(C + 7))
+
+Step 5: Simplify the equation:
+C + 25 = (5/3)C + 35/3
+
+Step 6: Multiply both sides of the equation by 3 to eliminate the fraction:
+3C + 75 = 5C + 35
+
+Step 7: Subtract 3C from both sides of the equation:
+75 = 2C + 35
+
+Step 8: Subtract 35 from both sides of the equation:
+40 = 2C
+
+Step 9: Divide both sides of the equation by 2:
+20 = C
+
+Final answer: 20",20,"VERDICT: CORRECT
+REASON: The solution follows a logical and step-by-step approach, accurately applying algebraic manipulations to solve the system of equations.",CORRECT,,20,2,20,True,True
+64,court,"To find the total miles driven per month, we need to calculate the miles driven for a round trip and then multiply it by the number of times John visits his parents in a month.
+
+1. First, we need to find the distance of a round trip. Since it takes 2 hours to drive to his parents at 70 mph, we can use the formula:
+   Distance = Speed * Time
+   Distance = 70 mph * 2 hours
+   Distance = 140 miles
+
+2. Since John visits his parents twice a month, we need to multiply the round trip distance by 2:
+   Total miles per month = 2 * 140 miles
+   Total miles per month = 280 miles
+
+Final answer: 280",280,"VERDICT: WRONG
+REASON: The calculation for the total miles per month is incorrect because it assumes the round trip distance is the same for each visit, but the problem states John visits twice a month, so the round trip distance should be doubled for each visit, not just multiplied by 2.",WRONG,"Here's the corrected solution step by step:
+
+1. First, we need to find the distance of a round trip. Since it takes 2 hours to drive to his parents at 70 mph, we can use the formula:
+   Distance = Speed * Time
+   Distance = 70 mph * 2 hours
+   Distance = 140 miles
+
+2. Since John visits his parents twice a month, we need to double the round trip distance for each visit:
+   Distance for one round trip = 140 miles
+   Distance for two round trips = 2 * 140 miles
+   Distance for two round trips = 280 miles
+
+3. Now, we need to multiply the total round trip distance by 2 (the number of times John visits his parents in a month):
+   Total miles per month = 2 * 280 miles
+   Total miles per month = 560 miles
+
+Final answer: 560",560,3,560,False,True
+65,court,"To solve this problem, we need to follow the given information step by step.
+
+1. We know Chris is 4 years old.
+2. Ben is two times older than Chris, so Ben's age is 2 * 4 = 8 years old.
+3. Caroline is three times older than Ben, so Caroline's age is 3 * 8 = 24 years old.
+
+Final answer: 24",24,"VERDICT: CORRECT
+REASON: The solution correctly follows the given information and performs the necessary calculations to determine Caroline's age.",CORRECT,,24,2,24,True,True
+66,long,"To solve this problem, we need to calculate the total number of times the alarm rang.
+
+1. The first time it went off, it rang 4 times.
+2. The second time it went off, it rang for 3 times as long as the first time. Since the first time it rang 4 times, the second time it rang 3 * 4 = 12 times.
+3. The third time it went off, it rang for half as long as the second time. Since the second time it rang 12 times, the third time it rang 12 / 2 = 6 times.
+
+Now, let's add up the total number of times the alarm rang:
+4 (first time) + 12 (second time) + 6 (third time) = 22
+
+Final answer: 22",22,"VERDICT: CORRECT
+REASON: The solution accurately calculates the total number of times the alarm rang by adding the individual times for each alarm, and the calculations for each time period are correct.",CORRECT,,22,2,22,True,True
+67,long,"To solve this problem, we need to find out how many onions and potatoes Sophia bought. We know that Rose bought 4 times the number of onions and potatoes Sophia bought. 
+
+Let's start by finding out how many onions and potatoes Sophia bought. Since Rose bought 12 onions and 4 potatoes, we can divide these numbers by 4 to find out how many Sophia bought.
+
+Onions: 12 / 4 = 3
+Potatoes: 4 / 4 = 1
+
+Now that we know Sophia bought 3 onions and 1 potato, we can find the total number of onions and potatoes she bought.
+
+Total onions: 3
+Total potatoes: 1
+Total items: 3 + 1 = 4
+
+Final answer: 4",4,"VERDICT: WRONG
+REASON: The solution incorrectly assumes that the number of onions and potatoes Sophia bought is reduced by a factor of 4, but the correct interpretation is that Rose bought 4 times the number of each item Sophia bought, meaning Sophia bought 1/4 of what Rose bought.",WRONG,"To solve this problem, we need to find out how many onions and potatoes Sophia bought. We know that Rose bought 4 times the number of onions and potatoes Sophia bought.
+
+Let's start by finding out how many onions and potatoes Sophia bought. Since Rose bought 12 onions and 4 potatoes, we can divide these numbers by 4 to find out how many Sophia bought.
+
+Onions: 12 / 4 = 3
+Potatoes: 4 / 4 = 1
+
+Now that we know Sophia bought 3 onions and 1 potato, we can find the total number of onions and potatoes she bought.
+
+Total onions: 3
+Total potatoes: 1
+Total items: 3 + 1 = 4
+
+However, the correct interpretation is that Rose bought 4 times the number of each item Sophia bought, meaning Sophia bought 1/4 of what Rose bought. 
+
+So, let's recalculate the number of onions and potatoes Sophia bought.
+
+Onions: 12 / 4 = 3
+This means Sophia bought 1/4 of 3 onions, which is 3 / 4 = 0.75 onions.
+
+Potatoes: 4 / 4 = 1
+This means Sophia bought 1/4 of 1 potato, which is 1 / 4 = 0.25 potatoes.
+
+Now that we know Sophia bought 0.75 onions and 0.25 potatoes, we can find the total number of onions and potatoes she bought.
+
+Total onions: 0.75
+Total potatoes: 0.25
+Total items: 0.75 + 0.25 = 1
+
+Final answer: 1",1,3,4,True,False
+68,long,"To solve this problem, let's break it down step by step.
+
+Let's say the number of votes against the new regulation is x. Since the vote passed with twice as many votes in favor of the new regulation as there were against it, the number of votes in favor is 2x.
+
+We know that the total number of people on the council is 33, and the sum of votes in favor and against must equal 33. So, we can set up the equation:
+
+x (votes against) + 2x (votes in favor) = 33
+
+Combine like terms:
+
+3x = 33
+
+Divide both sides by 3:
+
+x = 11
+
+Now that we know x (votes against) is 11, we can find the number of votes in favor by multiplying x by 2:
+
+Votes in favor = 2x = 2(11) = 22
+
+Final answer: 22",22,"VERDICT: CORRECT
+REASON: The solution correctly sets up the equation, solves for x, and then calculates the number of votes in favor using the correct formula.",CORRECT,,22,2,22,True,True
+69,court,"To solve this problem, let's break it down step by step.
+
+1. Kris gave 7 stickers to Rob, and Kris kept 9 stickers. So, the total number of stickers Kris had initially is 9 (kept) + 7 (given to Rob) = 16 stickers.
+
+2. Since Kris gave 7 stickers to Rob, Kris must have had 7 + 9 = 16 stickers initially.
+
+3. Kris gave half of the stickers to Rob, so Kris initially had twice as many stickers as Rob. Since Rob received 7 stickers, Kris initially had 7 * 2 = 14 stickers.
+
+4. However, we know Kris initially had 16 stickers. This means that Kris didn't give half of the stickers to Rob. Instead, Kris gave half of the stickers to Luis, and Luis gave half of the stickers to Rob.
+
+5. Since Kris initially had 16 stickers, and Kris gave half of the stickers to Luis, Luis must have had 16 / 2 = 8 stickers.
+
+6. Luis used half of the stickers, so Luis must have had 8 / 2 = 4 stickers initially.
+
+7. Since Seth gave half of his stickers to Luis, Seth must have had 4 * 2 = 8 stickers initially.
+
+Final answer: 8",8,"VERDICT: CORRECT
+REASON: The solution correctly breaks down the steps and uses logical reasoning to deduce the initial number of stickers Seth had, ensuring that each calculation is accurate and consistent with the given information.",CORRECT,,8,2,64,False,False
+70,long,"To solve this problem, we need to calculate the number of days Andy has to lose 30 lbs. 
+
+1. First, we need to find out how many days are between December 31st and July 19th. 
+   December has 31 days, January has 31 days, February has 28 days (assuming a non-leap year), March has 31 days, April has 30 days, May has 31 days, June has 30 days, and July has 19 days. 
+   Total days = 31 + 31 + 28 + 31 + 30 + 31 + 30 + 19 = 231 days
+
+2. Now, we need to calculate the total calories Andy needs to burn to lose 30 lbs. 
+   Since Andy needs to burn 3500 calories to lose a pound, he needs to burn 30 * 3500 = 105,000 calories to lose 30 lbs.
+
+3. To find out the daily calorie deficit, we need to divide the total calories by the number of days. 
+   Daily calorie deficit = Total calories / Number of days = 105,000 / 231 ≈ 454 calories
+
+Final answer: 454",454,"VERDICT: CORRECT
+REASON: The solution correctly calculates the number of days between December 31st and July 19th and the total calories needed to be burned to lose 30 lbs, then accurately determines the daily calorie deficit.",CORRECT,,454,2,525,False,False
+71,court,"To solve this problem, we need to break it down step by step.
+
+Step 1: Calculate the number of loaves sold in the morning.
+Two-thirds of the loaves are sold in the morning. 
+Two-thirds of 60 loaves = (2/3) * 60 = 40 loaves.
+
+Step 2: Calculate the number of loaves left after the morning sales.
+Loaves left = Total loaves - Loaves sold in the morning
+Loaves left = 60 - 40 = 20 loaves.
+
+Step 3: Calculate the number of loaves sold in the afternoon.
+Half of the remaining loaves are sold in the afternoon and evening. 
+Half of 20 loaves = (1/2) * 20 = 10 loaves.
+
+Therefore, the number of loaves sold in the afternoon is 10.
+
+Final answer: 10",10,"VERDICT: CORRECT
+REASON: The solution correctly breaks down the problem into steps, accurately calculates the number of loaves sold in the morning and the number of loaves left, and then correctly calculates the number of loaves sold in the afternoon.",CORRECT,,10,2,10,True,True
+72,long,"To find the average total distance spat, we need to calculate the total distance each person spat and then find the average.
+
+Zoey's total distance:
+- She has 40 seeds and spits each one 10 feet.
+- Total distance = 40 seeds * 10 feet/seed = 400 feet
+
+Sydney's total distance:
+- She has 35 seeds and spits each one 12 feet.
+- Total distance = 35 seeds * 12 feet/seed = 420 feet
+
+Total distance spat by both:
+- Total distance = 400 feet + 420 feet = 820 feet
+
+To find the average total distance spat, we divide the total distance by the total number of seeds (since each seed is spat once):
+- Average total distance spat = Total distance / Total number of seeds
+- Average total distance spat = 820 feet / (40 + 35)
+- Average total distance spat = 820 feet / 75
+- Average total distance spat = 10.93 feet (approximately)
+
+Final answer: 10.93",10.93,"VERDICT: CORRECT
+REASON: The solution correctly calculates the total distance spat by both Zoey and Sydney, and then finds the average total distance spat by dividing the total distance by the total number of seeds.",CORRECT,,10.93,2,410,False,False
+73,court,"To find out how much money Jordan would earn in one week if he spent his video game time working, we need to calculate the total hours he would work in a week and multiply it by his hourly wage.
+
+Step 1: Calculate the total hours Jordan works in a week.
+Since Jordan plays video games for 2 hours every day, and there are 7 days in a week, we multiply 2 hours by 7 days:
+2 hours/day * 7 days/week = 14 hours/week
+
+Step 2: Calculate the total amount of money Jordan would earn in a week.
+Since Jordan earns $10 an hour, we multiply the total hours he works in a week by his hourly wage:
+14 hours/week * $10/hour = $140/week
+
+Final answer: $140",140,"VERDICT: CORRECT
+REASON: The calculation of total hours worked in a week (14 hours) and the hourly wage ($10) are correctly multiplied to result in a total weekly earnings of $140.",CORRECT,,140,2,140,True,True
+74,court,"To find out how much Tom pays in a year, we need to calculate the total cost of car washes for a year.
+
+Step 1: Calculate the total number of car washes in a year.
+Since Tom gets 4 car washes a month, we multiply the number of car washes per month by 12 (the number of months in a year).
+4 car washes/month * 12 months/year = 48 car washes/year
+
+Step 2: Calculate the total cost of car washes for a year.
+Since each car wash costs $15, we multiply the total number of car washes in a year by the cost per car wash.
+48 car washes/year * $15/car wash = $720/year
+
+Final answer: $720",720,"VERDICT: CORRECT
+REASON: The solution correctly calculates the total number of car washes in a year and then multiplies that by the cost per car wash to find the total yearly cost.",CORRECT,,720,2,720,True,True
+75,court,"To solve this problem, we need to find the total number of customers processed by both Julie and Jewel in a week.
+
+First, we need to find the number of customers processed by Jewel in a week. Since Jewel processes 50 customers per day, and there are 7 days in a week, we multiply 50 by 7:
+
+50 customers/day * 7 days/week = 350 customers/week
+
+Since Julie operates the cash register exactly twice as fast as Jewel, Julie processes twice as many customers per day. So, Julie processes 50 * 2 = 100 customers per day.
+
+Now, we multiply 100 by 7 to find the number of customers processed by Julie in a week:
+
+100 customers/day * 7 days/week = 700 customers/week
+
+To find the total weekly production for both Julie and Jewel, we add the number of customers processed by each:
+
+350 customers/week (Jewel) + 700 customers/week (Julie) = 1050 customers/week
+
+Final answer: 1050",1050,"VERDICT: CORRECT
+REASON: The solution correctly calculates the weekly production for both Julie and Jewel, and the total weekly production is accurately found by adding their individual weekly production.",CORRECT,,1050,2,1050,True,True
+76,long,"To find the total hours of Peyton's after-work activities, we need to calculate the hours for each activity and add them together.
+
+1. Monday's yoga class: 1 hour
+2. Tuesday's cooking class: 3 times as long as Monday's yoga, so 3 * 1 = 3 hours
+3. Wednesday's cheese-tasting event: 0.5 hours (half an hour)
+4. Thursday's museum tour: half as long as the cooking class, so 3 / 2 = 1.5 hours
+5. Friday's errands: 2 hours
+
+Now, let's add up the hours for each activity:
+1 hour (yoga) + 3 hours (cooking) + 0.5 hours (cheese-tasting) + 1.5 hours (museum tour) + 2 hours (errands) = 8 hours
+
+Final answer: 8",8,"VERDICT: CORRECT
+REASON: The solution correctly calculates the total hours of Peyton's after-work activities by adding the hours for each activity together, resulting in a total of 8 hours.",CORRECT,,8,2,8,True,True
+77,long,"To solve this problem, we need to find out how many seashells each person collected and then divide them equally.
+
+1. Carlos collected 5 less seashells than Jim. Since Jim collected 27 seashells, we can find out how many seashells Carlos collected by subtracting 5 from 27:
+   Carlos' seashells = 27 - 5
+   Carlos' seashells = 22
+
+2. Carlos collected twice as many seashells as Carrey. To find out how many seashells Carrey collected, we can divide Carlos' seashells by 2:
+   Carrey's seashells = 22 / 2
+   Carrey's seashells = 11
+
+3. Now we know how many seashells each person collected:
+   Jim's seashells = 27
+   Carlos' seashells = 22
+   Carrey's seashells = 11
+
+4. To find out how many seashells each person got when they divided them equally, we need to add up all the seashells and divide by 3:
+   Total seashells = 27 + 22 + 11
+   Total seashells = 60
+   Seashells per person = 60 / 3
+   Seashells per person = 20
+
+Final answer: 20",20,"VERDICT: CORRECT
+REASON: The solution correctly calculates the number of seashells each person collected and then divides them equally, resulting in 20 seashells per person.",CORRECT,,20,2,20,True,True
+78,long,"To find the price of carrots after three years, we need to calculate the price increase each year and add it to the previous year's price.
+
+Year 1:
+Original price = $120
+Increase = 5% of $120 = 0.05 * $120 = $6
+New price = $120 + $6 = $126
+
+Year 2:
+Original price = $126
+Increase = 5% of $126 = 0.05 * $126 = $6.30
+New price = $126 + $6.30 = $132.30
+
+Year 3:
+Original price = $132.30
+Increase = 5% of $132.30 = 0.05 * $132.30 = $6.615
+New price = $132.30 + $6.615 = $138.915
+
+Rounded to the nearest integer, the price of carrots after three years is:
+Final answer: 139",139,"VERDICT: WRONG
+REASON: The calculated increase for Year 3 is $6.615, but the solution rounds it to $6.62, which is not the same as $6.615, and the final answer is also incorrect.",WRONG,"To find the price of carrots after three years, we need to calculate the price increase each year and add it to the previous year's price.
+
+Year 1:
+Original price = $120
+Increase = 5% of $120 = 0.05 * $120 = $6
+New price = $120 + $6 = $126
+
+Year 2:
+Original price = $126
+Increase = 5% of $126 = 0.05 * $126 = $6.30
+New price = $126 + $6.30 = $132.30
+
+Year 3:
+Original price = $132.30
+Increase = 5% of $132.30 = 0.05 * $132.30 = $6.615
+New price = $132.30 + $6.615 = $138.915
+
+To round the price after three years to the nearest integer, we need to round $138.915 to the nearest integer.
+
+Rounded price = $139
+
+Final answer: 139",139,3,138,False,False
+79,court,"To find the total amount of rice Goldy gave away, we need to calculate the total number of sacks she gave away and then multiply it by the weight of rice per sack.
+
+First, let's find the total number of sacks Goldy gave away:
+She gave 3 sacks to her cousin and 4 sacks to her brother, so the total number of sacks given away is:
+3 + 4 = 7 sacks
+
+Now, let's multiply the total number of sacks given away by the weight of rice per sack (25 kilograms):
+7 sacks * 25 kilograms/sack = 175 kilograms
+
+So, Goldy gave 175 kilograms of rice to her cousin and brother.",,"VERDICT: WRONG
+REASON: The solution incorrectly calculates the total number of sacks given away, as it should be the sum of the sacks given to the cousin and brother, but the problem asks for the total amount of rice given away, not the sacks.",WRONG,"Here's the corrected solution:
+
+1. First, let's find the total number of sacks Goldy gave away:
+She gave 3 sacks to her cousin and 4 sacks to her brother, so the total number of sacks given away is:
+3 + 4 = 7 sacks
+
+2. However, we need to find the total amount of rice given away, not the sacks. To do this, we need to find the total number of sacks Goldy had initially and subtract the number of sacks she kept.
+
+3. Goldy bought 20 sacks of rice and kept 20 - 7 = 13 sacks for herself.
+
+4. Now, let's find the total amount of rice Goldy gave away:
+She gave away 7 sacks, and each sack has 25 kilograms of rice, so the total amount of rice given away is:
+7 sacks * 25 kilograms/sack = 175 kilograms
+
+5. However, this is the total amount of rice given away, not the amount given to her cousin and brother. Since we know the total amount of rice given away, we can find the amount given to her cousin and brother by subtracting the amount she kept from the total amount given away.
+
+6. The amount given to her cousin and brother is:
+175 kilograms - 13 sacks * 25 kilograms/sack = 175 kilograms - 325 kilograms = -150 kilograms
+
+Since we can't give a negative amount of rice, this means that the initial calculation of 175 kilograms is incorrect. We need to re-evaluate the problem.
+
+7. Let's re-evaluate the problem:
+Goldy gave 3 sacks to her cousin and 4 sacks to her brother, so the total number of sacks given away is indeed 7 sacks.
+
+8. However, we need to find the total amount of rice given away, not the sacks. To do this, we need to find the total number of sacks Goldy had initially and subtract the number of sacks she kept.
+
+9. Goldy bought 20 sacks of rice and kept 20 - 7 = 13 sacks for herself.
+
+10. Now, let's find the total amount of rice Goldy gave away:
+She gave away 7 sacks, and each sack has 25 kilograms of rice, so the total amount of rice given away is:
+7 sacks * 25 kilograms/sack = 175 kilograms
+
+However, this is the total amount of rice given away, not the amount given to her cousin and brother. Since we know the total amount of rice given away, we can find the amount given to her cousin and brother by subtracting the amount she kept from the total amount given away.
+
+11. The amount given to her cousin and brother is:
+We can't find the exact amount given to her cousin and brother, as the total amount given away is 175 kilograms, and we don't know how much of that was given to each person.
+
+Final answer: 0",0,3,175,False,False
+80,court,"To solve this problem, we need to follow these steps:
+
+1. Calculate the number of packages Colby completes per hour:
+   He completes 10 less than 50 packages per hour, so he completes 50 - 10 = 40 packages per hour.
+
+2. Calculate the total number of packages Colby completes in an 8-hour workday:
+   Since he completes 40 packages per hour, in 8 hours he completes 40 * 8 = 320 packages.
+
+3. Calculate the total amount of money Colby earns in a typical 8-hour workday:
+   He gets paid $0.20 for every package he completes, so for 320 packages he earns 320 * $0.20 = $64.
+
+Final answer: $64",64,"VERDICT: CORRECT
+REASON: The solution accurately calculates the number of packages Colby completes in an 8-hour workday and then correctly multiplies that by his hourly wage to find his total earnings.",CORRECT,,64,2,64,True,True
+81,long,"To find the total refund, we need to calculate the amount of milk that was returned and multiply it by the cost per gallon.
+
+Step 1: Calculate the amount of milk that was returned.
+The company sold 4000 gallons of milk, but Mr. Marcellus returned 2/5 of that amount.
+2/5 of 4000 gallons = (2/5) * 4000 = 1600 gallons
+
+Step 2: Calculate the total refund.
+The cost per gallon is $3.5, and Mr. Marcellus returned 1600 gallons.
+Total refund = 1600 gallons * $3.5 per gallon = $5600
+
+Final answer: $5600",5600,"VERDICT: CORRECT
+REASON: The calculation of 2/5 of 4000 gallons is correct, and the multiplication of the returned gallons by the cost per gallon is also correct, resulting in a total refund of $5600.",CORRECT,,5600,2,5600,True,True
+82,long,"To solve this problem, we'll break it down step by step.
+
+1. Calculate the amount Greta puts into her retirement account:
+   50% of $2400.00 = 0.5 * $2400.00 = $1200.00
+
+2. Calculate the amount Greta uses for her car payment:
+   20% of $2400.00 = 0.2 * $2400.00 = $480.00
+
+3. Calculate the total amount Greta has spent so far:
+   $1200.00 (retirement) + $480.00 (car payment) = $1680.00
+
+4. Calculate the amount of money Greta has left to spend:
+   $2400.00 (initial paycheck) - $1680.00 (total spent) = $720.00
+
+Final answer: $720.00",720,"VERDICT: CORRECT
+REASON: The solution accurately calculates the amount Greta puts into her retirement account, car payment, and then correctly subtracts the total spent from her initial paycheck to find the amount left to spend.",CORRECT,,720,2,720,True,True
+83,court,"To find out how much Gary spends on water for laundry in a year, we need to calculate the total amount of water used per week, then multiply it by the number of weeks in a year.
+
+1. Calculate the total amount of water used per week:
+Gary does laundry twice a week, and each load uses 20 gallons of water. So, the total amount of water used per week is:
+20 gallons/week * 2 loads/week = 40 gallons/week
+
+2. Calculate the total amount of water used per year:
+There are 52 weeks in a year. Multiply the total amount of water used per week by the number of weeks in a year:
+40 gallons/week * 52 weeks/year = 2080 gallons/year
+
+3. Calculate the total cost of water used per year:
+A gallon of water costs $0.15. Multiply the total amount of water used per year by the cost per gallon:
+2080 gallons/year * $0.15/gallon = $312
+
+Final answer: $312",312,"VERDICT: CORRECT
+REASON: The solution correctly calculates the total amount of water used per year and then multiplies it by the cost per gallon to find the total cost of water used per year.",CORRECT,,312,2,312,True,True
+84,court,"To solve this problem, we need to find out how much money Bailey had before receiving her weekly allowance. 
+
+Let's denote the amount of money Bailey started with as 'x'. 
+
+Bailey received a weekly allowance of $5 for 8 weeks, so the total amount of money she received is 5 * 8 = $40.
+
+At the end of the 8 weeks, Bailey had a total of $100. This means that the amount of money she started with (x) plus the amount of money she received ($40) equals $100.
+
+We can write this as an equation: x + 40 = 100
+
+To find the value of 'x', we need to isolate it. We can do this by subtracting 40 from both sides of the equation:
+
+x + 40 - 40 = 100 - 40
+x = 60
+
+So, Bailey started with $60.
+
+Final answer: 60",60,"VERDICT: CORRECT
+REASON: The solution correctly sets up the equation, isolates the variable 'x', and solves for it, resulting in a starting amount of $60.",CORRECT,,60,2,60,True,True
+85,court,"To solve this problem, we need to follow the steps:
+
+1. First, we need to find out how many loaves of bread the bakery has. We know that the bakery has 40 less than seven times as many loaves of bread as Sam had last Friday.
+
+2. We know that Sam had 70 loaves of bread last Friday. Now, we need to multiply 70 by 7 to find out how many loaves of bread the bakery has if it had seven times as many as Sam.
+
+   70 * 7 = 490
+
+3. Now, we need to subtract 40 from 490 to find out how many loaves of bread the bakery actually has.
+
+   490 - 40 = 450
+
+Final answer: 450",450,"VERDICT: CORRECT
+REASON: The solution correctly follows the steps to calculate the number of loaves of bread the bakery has, starting with multiplying Sam's loaves by 7 and then subtracting 40.",CORRECT,,450,2,450,True,True
+86,long,"To find the profit made by the hospital, we need to calculate the total time spent on visits, the total revenue from patients, and the total cost of paying the doctors.
+
+1. Total time spent on visits:
+Number of people per day: 500
+Time spent per person: 24 minutes
+Total time spent per day: 500 * 24 minutes = 12,000 minutes
+
+2. Convert total time to hours:
+12,000 minutes / 60 = 200 hours
+
+3. Total revenue from patients:
+Number of people per day: 500
+Revenue per person: $200 per hour
+Total revenue per day: 500 * $200 per hour = $100,000 per day
+
+4. Total cost of paying the doctors:
+Number of hours worked per day: 200 hours
+Doctor's charge per hour: $150
+Total cost per day: 200 * $150 = $30,000 per day
+
+5. Profit made by the hospital:
+Total revenue per day: $100,000
+Total cost per day: $30,000
+Profit per day: $100,000 - $30,000 = $70,000 per day
+
+Final answer: $70,000",70000,"VERDICT: CORRECT
+REASON: The solution correctly calculates the total time spent on visits, converts it to hours, and accurately determines the total revenue and cost, resulting in a calculated profit of $70,000 per day.",CORRECT,,70000,2,10000,False,False
+87,long,"To find the total cost of Bill's new truck, we need to calculate the cost of each feature and add it to the base price.
+
+1. Base price of the truck: $30,000
+2. King cab upgrade: $7,500
+3. Leather seats: One-third the cost of the king cab upgrade
+   Cost of leather seats = $7,500 / 3 = $2,500
+4. Running boards: $500 less than the leather seats
+   Cost of running boards = $2,500 - $500 = $2,000
+5. Upgraded exterior light package: $1,500
+
+Now, let's add the cost of each feature to the base price:
+
+$30,000 (base price) + $7,500 (king cab upgrade) = $37,500
+$37,500 + $2,500 (leather seats) = $40,000
+$40,000 + $2,000 (running boards) = $42,000
+$42,000 + $1,500 (upgraded exterior light package) = $43,500
+
+Final answer: $43,500",43500,"VERDICT: CORRECT
+REASON: The solution accurately calculates the cost of each feature and adds it to the base price, resulting in a total cost of $43,500.",CORRECT,,43500,2,43500,True,True
+88,long,"To solve this problem, we need to break it down into steps.
+
+Step 1: Calculate the total amount of money Kenny needs to buy the ticket and have spending cash.
+Kenny needs $100 for the ticket and $50 for spending cash, so the total amount he needs is $100 + $50 = $150.
+
+Step 2: Calculate the total amount of money Kenny gets from selling his cards.
+Since Kenny sells his cards for $1.5 each and keeps 1/3 of them, he sells 2/3 of his cards. Let's say he starts with x cards. Then, he sells 2/3 * x cards.
+
+Step 3: Set up an equation to represent the situation.
+Since Kenny needs $150 and he gets $1.5 for each card he sells, we can set up the equation:
+2/3 * x * $1.5 = $150
+
+Step 4: Solve the equation for x.
+To solve for x, we can multiply both sides of the equation by 3/2 to get rid of the fraction:
+x * $1.5 = $150 * 3/2
+x * $1.5 = $225
+Now, we can divide both sides by $1.5 to solve for x:
+x = $225 / $1.5
+x = 150
+
+So, Kenny starts with 150 cards.
+
+Final answer: 150",150,"VERDICT: CORRECT
+REASON: The solution correctly sets up the equation, solves for x, and arrives at the correct answer of 150 cards, which is consistent with the given information.",CORRECT,,150,2,150,True,True
+89,long,"To solve this problem, we need to break it down into steps.
+
+Step 1: The tooth fairy left Sharon $5.00 for the first tooth.
+
+Step 2: The tooth fairy gave Sharon $1.00 for each of the next three teeth. Since there are three teeth, the total amount for these teeth is 3 * $1.00 = $3.00.
+
+Step 3: The total amount received so far is $5.00 (for the first tooth) + $3.00 (for the next three teeth) = $8.00.
+
+Step 4: For each of the last 2 teeth, the tooth fairy gave Sharon half the amount of money per tooth as Sharon had received for each of the previous three teeth. Since Sharon received $1.00 for each of the previous three teeth, half of that amount is $1.00 / 2 = $0.50.
+
+Step 5: The tooth fairy gave Sharon $0.50 for each of the last 2 teeth. Since there are two teeth, the total amount for these teeth is 2 * $0.50 = $1.00.
+
+Step 6: The total amount received is $8.00 (from the first four teeth) + $1.00 (from the last two teeth) = $9.00.
+
+Final answer: $9.00",9,"VERDICT: CORRECT
+REASON: The solution breaks down the problem into logical steps, accurately calculating the amount received for each set of teeth and adding them together to find the total amount.",CORRECT,,9,2,9,True,True
+90,court,"To find the percentage of students enrolled in hip-hop dance, we need to follow these steps:
+
+1. Calculate the number of students enrolled in contemporary dance:
+20% of 20 students = 0.20 * 20 = 4 students
+
+2. Calculate the number of remaining students:
+20 - 4 = 16 students
+
+3. Calculate the number of students enrolled in jazz dance:
+25% of 16 students = 0.25 * 16 = 4 students
+
+4. Calculate the number of students enrolled in hip-hop dance:
+16 - 4 = 12 students
+
+5. Calculate the percentage of students enrolled in hip-hop dance:
+(12 / 20) * 100 = 60%
+
+Final answer: 60",60,"VERDICT: WRONG
+REASON: The calculation for the percentage of students enrolled in hip-hop dance is incorrect, as it should be based on the total number of students (20) rather than the number of remaining students (16).",WRONG,"Here's the corrected solution step by step:
+
+1. Calculate the number of students enrolled in contemporary dance:
+20% of 20 students = 0.20 * 20 = 4 students
+
+2. Calculate the number of remaining students:
+20 - 4 = 16 students
+
+3. Calculate the number of students enrolled in jazz dance:
+25% of 16 students = 0.25 * 16 = 4 students
+
+4. Calculate the number of students enrolled in hip-hop dance:
+16 - 4 = 12 students
+
+5. Calculate the percentage of students enrolled in hip-hop dance:
+(12 / 20) * 100 = 60%
+
+However, the reviewer's remark indicates that the calculation is incorrect. To correct this, we need to calculate the percentage of students enrolled in hip-hop dance based on the total number of students (20), not the remaining students (16).
+
+Let's recalculate the number of students enrolled in jazz dance:
+25% of 20 students = 0.25 * 20 = 5 students
+
+Now, we can calculate the number of students enrolled in hip-hop dance:
+20 - 4 (contemporary) - 5 (jazz) = 11 students
+
+Finally, we can calculate the percentage of students enrolled in hip-hop dance:
+(11 / 20) * 100 = 55%
+
+Final answer: 55",55,3,60,True,False
+91,long,"To solve the problem, let's break it down step by step:
+
+1. Maria invited 4 friends and gave each of them 2 water balloons. So, the total number of balloons given to her friends is 4 x 2 = 8.
+
+2. Maria also gave herself 2 water balloons. So, the total number of balloons now is 8 (for her friends) + 2 (for Maria) = 10.
+
+3. Maria's mom came out and gave each person 3 more balloons. Since there are 5 people in total (Maria and her 4 friends), the total number of balloons given by Maria's mom is 5 x 3 = 15.
+
+4. Now, we add the balloons given by Maria's mom to the total number of balloons we had earlier. So, the total number of balloons now is 10 (earlier) + 15 (given by Maria's mom) = 25.
+
+Final answer: 25",25,"VERDICT: WRONG
+REASON: The initial calculation of 10 balloons is incorrect because it doesn't account for the balloons given to Maria's friends and herself by Maria's mom.",WRONG,"Here's the corrected solution step by step:
+
+1. Maria invited 4 friends and gave each of them 2 water balloons. So, the total number of balloons given to her friends is 4 x 2 = 8.
+
+2. Maria also gave herself 2 water balloons. So, the total number of balloons now is 8 (for her friends) + 2 (for Maria) = 10.
+
+3. Maria's mom came out and gave each person 3 more balloons. Since there are 5 people in total (Maria and her 4 friends), the total number of balloons given by Maria's mom is 5 x 3 = 15.
+
+4. Now, we add the balloons given by Maria's mom to the total number of balloons we had earlier. However, we need to add the balloons given to Maria's friends and herself as well. So, the total number of balloons now is 8 (for her friends) + 2 (for Maria) + 15 (given by Maria's mom) = 25.
+
+However, we can simplify the calculation by adding the initial 10 balloons to the 15 balloons given by Maria's mom. Since Maria's mom gave 3 balloons to each of the 5 people, the total number of new balloons is 3 x 5 = 15. We can then add the initial 10 balloons to the 15 new balloons: 10 + 15 = 25.
+
+But, we can also calculate the total number of balloons by adding the initial 10 balloons to the total number of new balloons given to Maria's friends and herself. Maria's mom gave 3 balloons to each of the 5 people, so the total number of new balloons is 3 x 5 = 15. Maria's friends received 2 balloons each, so the total number of new balloons given to her friends is 2 x 4 = 8. Maria received 3 balloons, so the total number of new balloons given to Maria is 3. The total number of new balloons is 8 + 3 = 11. Now, we add the initial 10 balloons to the total number of new balloons: 10 + 11 = 21.
+
+Final answer: 21",21,3,24,False,False
+92,long,"To find the salesman's profit, we need to calculate the total cost of the sneakers and the total amount of money he made from selling them.
+
+Step 1: Calculate the total cost of the sneakers
+The salesman bought 48 sneakers for $576.
+
+Step 2: Calculate the amount of money made from selling 17 sneakers at $20 each
+17 sneakers * $20 = $340
+
+Step 3: Calculate the number of sneakers left to sell
+48 sneakers - 17 sneakers = 31 sneakers
+
+Step 4: Calculate the amount of money made from selling the remaining 31 sneakers at $25 each
+31 sneakers * $25 = $775
+
+Step 5: Calculate the total amount of money made
+$340 + $775 = $1115
+
+Step 6: Calculate the profit
+Profit = Total amount of money made - Total cost
+Profit = $1115 - $576
+Profit = $539
+
+Final answer: $539",539,"VERDICT: CORRECT
+REASON: The solution accurately calculates the total cost, total amount of money made, and profit, using the correct formulas and numbers throughout the steps.",CORRECT,,539,2,539,True,True
+93,long,"To solve this problem, we need to first calculate the total number of toys produced by the first 4 workers.
+
+The 2 workers who produce 6 toys an hour work for 10 hours, so they produce 2 x 6 x 10 = 120 toys.
+
+The other 2 workers who produce 4 toys an hour also work for 10 hours, so they produce 2 x 4 x 10 = 80 toys.
+
+In total, the first 4 workers produce 120 + 80 = 200 toys.
+
+Since the manufacturer still needs 20 more toys to ship the order, the total number of toys needed is 200 + 20 = 220.
+
+Since the order is for 400 toys, the fifth worker must produce the remaining 400 - 220 = 180 toys.
+
+Since the fifth worker works for 10 hours, we can calculate the number of toys per hour by dividing the total number of toys produced by the fifth worker by the number of hours worked.
+
+Toys per hour = Total toys produced by the fifth worker / Number of hours worked
+Toys per hour = 180 / 10
+Toys per hour = 18
+
+Final answer: 18",18,"VERDICT: WRONG
+REASON: The calculation of the total number of toys produced by the first 4 workers is incorrect, as it should be 2 x 6 x 10 + 2 x 4 x 10 = 120 + 80 = 200, but the correct calculation is 2 x 6 x 10 + 2 x 4 x 10 = 120 + 80 = 200, however, the 2 workers who produce 4 toys an hour were not accounted for in the initial calculation of the first 4 workers, the correct calculation should be 2 x 6 x 10 + 2 x 4 x 10 = 120 + 80 = 200, but the 2 workers who produce 4 toys an hour were not accounted for in the initial calculation of the first 4 workers, the correct calculation should be 2 x 6 x 10 + 2 x 4 x 10 = 120 + 80 = 200, however, the 2 workers who produce 4 toys an hour were not accounted for in the initial calculation of the first 4 workers, the correct calculation should be 2 x 6 x 10 + 2 x 4 x 10 = 120 + 80 = 200, however, the 2 workers who produce 4 toys an hour were not accounted for in the initial calculation of the first 4 workers, the correct calculation should be 2 x 6 x 10 + 2 x 4 x 10 = 120 + 80 = 200, however, the 2 workers who produce 4 toys an hour were not accounted for in the initial calculation of the first 4 workers, the correct calculation should be 2 x 6 x 10 + 2 x 4 x 10 = 120 + 80 = 200, however, the 2 workers who produce 4 toys an hour were not accounted for in the initial calculation of the first 4 workers, the correct calculation should be 2 x 6 x 10 + 2 x 4 x 10 = 120 + 80 = 200, however, the 2 workers who produce 4 toys an hour were not accounted for in the initial calculation of the first 4 workers, the correct calculation should be 2 x 6 x 10 + 2 x 4 x 10 = 120 + 80 = 200, however, the 2 workers who produce 4 toys an hour were not accounted for in the initial calculation of the first 4 workers, the correct calculation should be 2 x 6 x 10 + 2 x 4 x 10 = 120 + 80 = 200, however, the 2 workers who produce 4 toys an hour were not accounted for in the initial calculation of the first 4 workers, the correct calculation",WRONG,"To solve this problem, we need to first calculate the total number of toys produced by the first 4 workers.
+
+The 2 workers who produce 6 toys an hour work for 10 hours, so they produce 2 x 6 x 10 = 120 toys.
+
+The other 2 workers who produce 4 toys an hour also work for 10 hours, so they produce 2 x 4 x 10 = 80 toys.
+
+In total, the first 4 workers produce 120 + 80 = 200 toys.
+
+However, we need to account for the 2 workers who produce 4 toys an hour in the initial calculation of the first 4 workers. So, the correct calculation is:
+
+The 2 workers who produce 6 toys an hour work for 10 hours, so they produce 2 x 6 x 10 = 120 toys.
+
+The 2 workers who produce 4 toys an hour work for 10 hours, so they produce 2 x 4 x 10 = 80 toys.
+
+In total, the first 4 workers produce 120 + 80 = 200 toys.
+
+Since the manufacturer still needs 20 more toys to ship the order, the total number of toys needed is 200 + 20 = 220.
+
+Since the order is for 400 toys, the fifth worker must produce the remaining 400 - 220 = 180 toys.
+
+Since the fifth worker works for 10 hours, we can calculate the number of toys per hour by dividing the total number of toys produced by the fifth worker by the number of hours worked.
+
+Toys per hour = Total toys produced by the fifth worker / Number of hours worked
+Toys per hour = 180 / 10
+Toys per hour = 18
+
+However, the reviewer's remark suggests that the calculation of the total number of toys produced by the first 4 workers is incorrect. Let's recheck the calculation.
+
+The 2 workers who produce 6 toys an hour work for 10 hours, so they produce 2 x 6 x 10 = 120 toys.
+
+The 2 workers who produce 4 toys an hour work for 10 hours, so they produce 2 x 4 x 10 = 80 toys.
+
+In total, the first 4 workers produce 120 + 80 = 200 toys.
+
+However, the reviewer's remark suggests that the 2 workers who produce 4 toys an hour were not accounted for in the initial calculation of the first 4 workers. This is not correct, as the 2 workers who produce 4 toys an hour are indeed part of the first 4 workers.
+
+Let's recheck the calculation again.
+
+The 2 workers who produce 6 toys an hour work for 10 hours, so they produce 2 x 6 x 10 = 120 toys.
+
+The 2 workers who produce 4 toys an hour work for 10 hours, so",,3,18,True,False
+94,court,"To solve this problem, we need to calculate the number of pizzas eaten by both the glee club and the football team, and then subtract that from the total number of pizzas.
+
+1. The glee club ordered 20 pizzas and ate 70% of them. 
+   70% of 20 pizzas = 0.7 * 20 = 14 pizzas eaten by the glee club.
+
+2. The football team ordered twice as many pizzas as the glee club, so they ordered 2 * 20 = 40 pizzas.
+   80% of 40 pizzas = 0.8 * 40 = 32 pizzas eaten by the football team.
+
+3. Now, let's add the number of pizzas eaten by both groups: 
+   14 pizzas (glee club) + 32 pizzas (football team) = 46 pizzas eaten in total.
+
+4. To find the number of pizzas left, we subtract the total number of pizzas eaten from the total number of pizzas ordered:
+   20 pizzas (total) - 46 pizzas (eaten) = -26 pizzas (this is incorrect, since you can't have negative pizzas)
+   We need to recheck the calculation.
+
+   Let's recheck the calculation:
+   The football team ordered 40 pizzas and ate 80% of them, which is 0.8 * 40 = 32 pizzas.
+   The glee club ordered 20 pizzas and ate 70% of them, which is 0.7 * 20 = 14 pizzas.
+
+   The total number of pizzas eaten is 32 (football team) + 14 (glee club) = 46 pizzas.
+
+   Since the football team ordered twice as many pizzas as the glee club, we can also calculate the number of pizzas eaten by the football team as 2 * 0.7 * 20 = 28 pizzas.
+
+   The total number of pizzas eaten is 14 (glee club) + 28 (football team) = 42 pizzas.
+
+5. Now, let's subtract the total number of pizzas eaten from the total number of pizzas ordered:
+   20 pizzas (total) - 42 pizzas (eaten) = -22 pizzas (this is still incorrect)
+
+   Since we can't have negative pizzas, we need to recheck the calculation again.
+
+   Let's recheck the calculation:
+   The football team ordered 40 pizzas and ate 80% of them, which is 0.8 * 40 = 32 pizzas.
+   The glee club ordered 20 pizzas and ate 70% of them, which is 0.7 * 20 = 14 pizzas.
+
+   The total number of pizzas eaten is 32 (football team) + 14 (glee club) = 46 pizzas.
+
+   Since the football team ordered twice as many pizzas as the glee club, we can also calculate the number of pizzas eaten by",,"VERDICT: WRONG
+REASON: The solution incorrectly calculated the number of pizzas eaten by the football team, resulting in an incorrect total number of pizzas eaten.",WRONG,"To solve this problem, we need to calculate the number of pizzas eaten by both the glee club and the football team, and then subtract that from the total number of pizzas.
+
+1. The glee club ordered 20 pizzas and ate 70% of them. 
+   70% of 20 pizzas = 0.7 * 20 = 14 pizzas eaten by the glee club.
+
+2. The football team ordered twice as many pizzas as the glee club, so they ordered 2 * 20 = 40 pizzas.
+   80% of 40 pizzas = 0.8 * 40 = 32 pizzas eaten by the football team.
+
+3. Now, let's add the number of pizzas eaten by both groups: 
+   14 pizzas (glee club) + 32 pizzas (football team) = 46 pizzas eaten in total.
+
+4. To find the number of pizzas left, we subtract the total number of pizzas eaten from the total number of pizzas ordered:
+   20 pizzas (total) - 46 pizzas (eaten) = -26 pizzas
+
+However, this is incorrect since we can't have negative pizzas. Let's recheck the calculation.
+
+1. The glee club ordered 20 pizzas and ate 70% of them. 
+   70% of 20 pizzas = 0.7 * 20 = 14 pizzas eaten by the glee club.
+
+2. The football team ordered twice as many pizzas as the glee club, so they ordered 2 * 20 = 40 pizzas.
+   80% of 40 pizzas = 0.8 * 40 = 32 pizzas eaten by the football team.
+
+3. Now, let's add the number of pizzas eaten by both groups: 
+   14 pizzas (glee club) + 32 pizzas (football team) = 46 pizzas eaten in total.
+
+4. Since the football team ordered twice as many pizzas as the glee club, we can also calculate the number of pizzas eaten by the football team as 2 * 0.7 * 20 = 28 pizzas.
+
+5. The total number of pizzas eaten is 14 (glee club) + 28 (football team) = 42 pizzas.
+
+6. To find the number of pizzas left, we subtract the total number of pizzas eaten from the total number of pizzas ordered:
+   20 pizzas (total) - 42 pizzas (eaten) = -22 pizzas
+
+However, this is still incorrect. Let's recheck the calculation again.
+
+1. The glee club ordered 20 pizzas and ate 70% of them. 
+   70% of 20 pizzas = 0.7 * 20 = 14 pizzas eaten by the glee club.
+
+2. The football team ordered twice as many pizzas as the glee club, so they ordered 2 * 20 = 40 pizzas.
+   ",,3,14,False,False
+95,court,"To find out how much farther the bus went than the car, we need to calculate the distance each vehicle traveled.
+
+The bus travels 60 miles per hour for 5 hours. To find the distance, we multiply the speed by the time:
+Distance = Speed x Time
+Distance = 60 miles/hour x 5 hours
+Distance = 300 miles
+
+The car travels 30 miles per hour for 8 hours. To find the distance, we multiply the speed by the time:
+Distance = Speed x Time
+Distance = 30 miles/hour x 8 hours
+Distance = 240 miles
+
+Now, we need to find the difference between the distance the bus traveled and the distance the car traveled:
+Difference = Distance traveled by bus - Distance traveled by car
+Difference = 300 miles - 240 miles
+Difference = 60 miles
+
+Final answer: 60",60,"VERDICT: CORRECT
+REASON: The solution correctly calculates the distance traveled by each vehicle and then finds the difference between the two distances, resulting in the correct answer of 60 miles.",CORRECT,,60,2,60,True,True
+96,long,"To find the initial amount of meat on the triceratops, we need to work backwards from the last amount of meat that was left.
+
+1. The Allosaurus ate 270 kilograms of meat. Since this is the last amount left, we know that before the Allosaurus ate, there were 270 kilograms of meat left.
+
+2. The Allosaurus ate half of what was left, so before the Allosaurus ate, there were 2 * 270 = 540 kilograms of meat.
+
+3. The velociraptors scavenged half of what was left after the T-Rex ate. Since the T-Rex ate half of the initial amount, the velociraptors ate half of the 540 kilograms. So, the velociraptors ate 540 / 2 = 270 kilograms.
+
+4. This means that before the velociraptors ate, there were 2 * 270 = 540 kilograms of meat left.
+
+5. The T-Rex ate half of the initial amount of meat. Since there were 540 kilograms left after the T-Rex ate, the T-Rex ate 540 / 2 = 270 kilograms.
+
+6. This means that the initial amount of meat on the triceratops was 2 * 270 = 540 kilograms.
+
+Final answer: 540",540,"VERDICT: WRONG
+REASON: The solution incorrectly assumes that the velociraptors ate half of the 540 kilograms left after the T-Rex ate, but it should have eaten half of the 270 kilograms left after the T-Rex ate, which is 135 kilograms.",WRONG,"To find the initial amount of meat on the triceratops, we need to work backwards from the last amount of meat that was left.
+
+1. The Allosaurus ate 270 kilograms of meat. Since this is the last amount left, we know that before the Allosaurus ate, there were 270 kilograms of meat left.
+
+2. The Allosaurus ate half of what was left, so before the Allosaurus ate, there were 2 * 270 = 540 kilograms of meat.
+
+3. The velociraptors scavenged half of what was left after the T-Rex ate. Since the T-Rex ate half of the initial amount, the velociraptors ate half of the 270 kilograms left after the T-Rex ate. So, the velociraptors ate 270 / 2 = 135 kilograms.
+
+4. This means that before the velociraptors ate, there were 270 + 135 = 405 kilograms of meat left.
+
+5. The T-Rex ate half of the initial amount of meat. Since there were 405 kilograms left after the T-Rex ate, the T-Rex ate 405 / 2 = 202.5 kilograms.
+
+6. This means that the initial amount of meat on the triceratops was 2 * 202.5 = 405 kilograms.
+
+Final answer: 405",405,3,1080,False,False
+97,long,"To find out how many sunflowers Faraday sold, we need to first find out how many bouquets he sold. We know that each bouquet has 12 sunflowers and that he earned $56 from the bouquet per day. 
+
+First, we'll find out how many bouquets he sold per day. We can do this by dividing the amount he earned from the bouquet ($56) by the cost of the bouquet ($8). 
+
+$56 ÷ $8 = 7 bouquets per day
+
+Since each bouquet has 12 sunflowers, we can multiply the number of bouquets by 12 to find out how many sunflowers he sold per day. 
+
+7 bouquets per day * 12 sunflowers per bouquet = 84 sunflowers per day
+
+Now, we know that Faraday sold 84 sunflowers per day. To find out how many sunflowers he sold in 3 days, we can multiply the number of sunflowers he sold per day by 3. 
+
+84 sunflowers per day * 3 days = 252 sunflowers
+
+Final answer: 252",252,"VERDICT: CORRECT
+REASON: The solution correctly calculates the number of bouquets sold per day and then multiplies it by the number of sunflowers per bouquet to find the daily sunflower sales, and finally multiplies the daily sales by 3 to find the total sunflower sales over 3 days.",CORRECT,,252,2,291,False,False
+98,court,"To find the total time Carmen spent playing these games, we need to calculate the time spent on crossword puzzles and sudoku puzzles separately, then add them together.
+
+Time spent on crossword puzzles: 
+Number of crossword puzzles = 3
+Time to finish one crossword puzzle = 10 minutes
+Total time spent on crossword puzzles = 3 * 10 = 30 minutes
+
+Time spent on sudoku puzzles: 
+Number of sudoku puzzles = 8
+Time to finish one sudoku puzzle = 5 minutes
+Total time spent on sudoku puzzles = 8 * 5 = 40 minutes
+
+Total time spent playing these games = Time spent on crossword puzzles + Time spent on sudoku puzzles
+Total time spent playing these games = 30 + 40 = 70 minutes
+
+Final answer: 70",70,"VERDICT: CORRECT
+REASON: The solution correctly calculates the total time spent on crossword puzzles and sudoku puzzles and adds them together to find the total time spent playing these games.",CORRECT,,70,2,70,True,True
+99,court,"To find out how many pretzels Edgar's brother eats in a week, we need to first find out how many pretzels Edgar's brother eats in a day.
+
+Edgar's brother eats 1/2 as many pretzels as Edgar, and Edgar eats 18 pretzels a day. 
+
+1/2 of 18 is 18 / 2 = 9.
+
+So Edgar's brother eats 9 pretzels a day.
+
+To find out how many pretzels Edgar's brother eats in a week, we multiply the number of pretzels he eats in a day by 7 (the number of days in a week).
+
+9 pretzels a day * 7 days a week = 63 pretzels a week.
+
+Final answer: 63",63,"VERDICT: CORRECT
+REASON: The solution correctly calculates the number of pretzels Edgar's brother eats in a day and then multiplies it by 7 to find the weekly amount, using the correct mathematical operations.",CORRECT,,63,2,63,True,True
