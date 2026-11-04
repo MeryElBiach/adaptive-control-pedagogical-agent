@@ -1,0 +1,18 @@
+# Environnement virtuel
+venv/
+.venv/
+
+# Clé API : ne JAMAIS l'envoyer sur GitHub
+.env
+
+# Fichiers temporaires Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Système
+.DS_Store
+Thumbs.db
+
+# IMPORTANT : data/ et resultats/ ne sont PAS ignorés,
+# pour que le binôme travaille sur les mêmes exercices et les mêmes résultats.
