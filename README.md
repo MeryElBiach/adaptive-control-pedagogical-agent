@@ -105,16 +105,8 @@ Détail par longueur d'énoncé :
 | `resultats.py` | Calcul du % de bonnes réponses et des appels moyens à partir d'un CSV |
 | `controleur_fixe.py` | Contrôle fixe : résoudre → vérifier → corriger si WRONG |
 | `controleur_heuristique.py` | Contrôle heuristique : vérifier seulement les énoncés longs |
-| `data/` | `exercices.csv` et `seuil.json`, partagés par le binôme |
+| `data/` | `exercices.csv` et `seuil.json`|
 | `resultats/` | `fixe.csv` et `heuristique.csv` : une ligne par exercice |
 
 Pour recalculer les mesures d'un fichier de résultats : `python resultats.py resultats/heuristique.csv`
 
-## Règles de travail
-
-- Faire `git pull` avant de commencer à travailler.
-- Ne pas modifier le même fichier en même temps.
-- Ne pas modifier `config.py` ni les consignes de `agent.py` sans accord du binôme.
-- Ne pas relancer `donnees.py` : utiliser `data/exercices.csv`.
-- Versionner les fichiers de `resultats/` : ils sont la référence des chiffres du rapport.
-- Ne jamais pousser le fichier `.env`.
