@@ -92,7 +92,7 @@ Détail par longueur d'énoncé :
 3. Le contrôle heuristique, qui ne vérifie que les énoncés longs, fait mieux que le contrôle fixe sur les deux mesures (78 % contre 75 %, 1,58 appel contre 2,20).
 4. Il reste légèrement en dessous de la référence sans vérification (79 %), car sur les énoncés longs la vérification fait encore perdre un peu (67,3 % → 65,3 %). Le contrôle appris devra montrer s'il trouve une meilleure règle.
 
-Remarque : même à température 0, l'API ne renvoie pas exactement les mêmes réponses d'une exécution à l'autre (écart observé d'environ 3 points). Les résultats de référence sont donc ceux enregistrés dans `resultats/`.
+Remarque : même à température 0, l'API ne renvoie pas exactement les mêmes réponses d'une exécution à l'autre . Les résultats de référence sont donc ceux enregistrés dans `resultats/`.
 
 ## Structure du dépôt
 
